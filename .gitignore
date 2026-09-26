@@ -24,3 +24,10 @@ node_modules/
 # Sensitive config
 .env
 .env.*
+
+# Electron
+FriendsParkProj/electron/node_modules/
+FriendsParkProj/electron/dist/
+FriendsParkProj/electron/.electron-cache/
+FriendsParkProj/electron/.eb-cache/
+FriendsParkProj/electron/web-desktop/

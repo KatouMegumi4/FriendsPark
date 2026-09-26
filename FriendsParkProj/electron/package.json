@@ -1,0 +1,47 @@
+{
+  "name": "friends-park",
+  "version": "0.1.0",
+  "description": "Friends Park - 多人联机游乐场",
+  "main": "main.js",
+  "author": "FriendsPark",
+  "scripts": {
+    "start": "electron .",
+    "copy-web": "xcopy /E /I /Y ..\\build\\web-desktop web-desktop",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "devDependencies": {
+    "app-builder-bin": "^4.2.0",
+    "electron": "^28.3.3",
+    "electron-builder": "^24.13.3"
+  },
+  "build": {
+    "appId": "com.friendspark.game",
+    "productName": "FriendsPark",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "main.js",
+      "web-desktop/**/*"
+    ],
+    "win": {
+      "target": [
+        {
+          "target": "nsis",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "signAndEditExecutable": false
+    },
+    "nsis": {
+      "oneClick": false,
+      "perMachine": false,
+      "allowToChangeInstallationDirectory": true,
+      "createDesktopShortcut": true,
+      "createStartMenuShortcut": true
+    }
+  }
+}
