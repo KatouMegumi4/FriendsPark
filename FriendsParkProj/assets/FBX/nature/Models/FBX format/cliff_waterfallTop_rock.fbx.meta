@@ -1,0 +1,164 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ddb8cf19-ea1d-4641-abf9-71d10529746d",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "ddb8cf19-ea1d-4641-abf9-71d10529746d@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9edeb": {
+      "importer": "gltf-mesh",
+      "uuid": "ddb8cf19-ea1d-4641-abf9-71d10529746d@9edeb",
+      "displayName": "",
+      "id": "9edeb",
+      "name": "cliff_waterfallTop_rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 60
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0086d": {
+      "importer": "gltf-material",
+      "uuid": "ddb8cf19-ea1d-4641-abf9-71d10529746d@0086d",
+      "displayName": "",
+      "id": "0086d",
+      "name": "water.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ee4f": {
+      "importer": "gltf-material",
+      "uuid": "ddb8cf19-ea1d-4641-abf9-71d10529746d@0ee4f",
+      "displayName": "",
+      "id": "0ee4f",
+      "name": "_defaultMat.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "ddb8cf19-ea1d-4641-abf9-71d10529746d@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fc265": {
+      "importer": "gltf-material",
+      "uuid": "ddb8cf19-ea1d-4641-abf9-71d10529746d@fc265",
+      "displayName": "",
+      "id": "fc265",
+      "name": "dirtDark.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ffde": {
+      "importer": "gltf-scene",
+      "uuid": "ddb8cf19-ea1d-4641-abf9-71d10529746d@1ffde",
+      "displayName": "",
+      "id": "1ffde",
+      "name": "cliff_waterfallTop_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "ddb8cf19-ea1d-4641-abf9-71d10529746d@9edeb"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ddb8cf19-ea1d-4641-abf9-71d10529746d@0086d",
+        "ddb8cf19-ea1d-4641-abf9-71d10529746d@0ee4f",
+        "ddb8cf19-ea1d-4641-abf9-71d10529746d@3577b",
+        "ddb8cf19-ea1d-4641-abf9-71d10529746d@53398",
+        "ddb8cf19-ea1d-4641-abf9-71d10529746d@fc265"
+      ],
+      "scenes": [
+        "ddb8cf19-ea1d-4641-abf9-71d10529746d@1ffde"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "98ad95a3-126e-4437-b059-14e97082174c",
+  "files": [],
+  "subMetas": {
+    "8acc1": {
+      "importer": "gltf-mesh",
+      "uuid": "98ad95a3-126e-4437-b059-14e97082174c@8acc1",
+      "displayName": "",
+      "id": "8acc1",
+      "name": "Mesh cliff_large_rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "98ad95a3-126e-4437-b059-14e97082174c@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89b62": {
+      "importer": "gltf-scene",
+      "uuid": "98ad95a3-126e-4437-b059-14e97082174c@89b62",
+      "displayName": "",
+      "id": "89b62",
+      "name": "cliff_large_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "98ad95a3-126e-4437-b059-14e97082174c@8acc1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "98ad95a3-126e-4437-b059-14e97082174c@3577b"
+      ],
+      "scenes": [
+        "98ad95a3-126e-4437-b059-14e97082174c@89b62"
+      ]
+    }
+  }
+}

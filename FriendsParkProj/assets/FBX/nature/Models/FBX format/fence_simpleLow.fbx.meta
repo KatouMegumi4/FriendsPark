@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "7e8250ac-86fb-4357-a43a-6e2a43cccf93",
+  "files": [],
+  "subMetas": {
+    "5f7bc": {
+      "importer": "gltf-mesh",
+      "uuid": "7e8250ac-86fb-4357-a43a-6e2a43cccf93@5f7bc",
+      "displayName": "",
+      "id": "5f7bc",
+      "name": "fence_simpleLow.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "7e8250ac-86fb-4357-a43a-6e2a43cccf93@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f7a3c": {
+      "importer": "gltf-scene",
+      "uuid": "7e8250ac-86fb-4357-a43a-6e2a43cccf93@f7a3c",
+      "displayName": "",
+      "id": "f7a3c",
+      "name": "fence_simpleLow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "7e8250ac-86fb-4357-a43a-6e2a43cccf93@5f7bc"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7e8250ac-86fb-4357-a43a-6e2a43cccf93@e4014"
+      ],
+      "scenes": [
+        "7e8250ac-86fb-4357-a43a-6e2a43cccf93@f7a3c"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ba037c38-965e-464a-a321-a82626ef16c1",
+  "files": [],
+  "subMetas": {
+    "e3345": {
+      "importer": "gltf-mesh",
+      "uuid": "ba037c38-965e-464a-a321-a82626ef16c1@e3345",
+      "displayName": "",
+      "id": "e3345",
+      "name": "ground_pathOpen.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 8
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "ba037c38-965e-464a-a321-a82626ef16c1@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a67b7": {
+      "importer": "gltf-scene",
+      "uuid": "ba037c38-965e-464a-a321-a82626ef16c1@a67b7",
+      "displayName": "",
+      "id": "a67b7",
+      "name": "ground_pathOpen.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "ba037c38-965e-464a-a321-a82626ef16c1@e3345"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ba037c38-965e-464a-a321-a82626ef16c1@3577b"
+      ],
+      "scenes": [
+        "ba037c38-965e-464a-a321-a82626ef16c1@a67b7"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "64271d66-72a9-455e-a493-18d055a37eb2",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "64271d66-72a9-455e-a493-18d055a37eb2@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "74730": {
+      "importer": "gltf-mesh",
+      "uuid": "64271d66-72a9-455e-a493-18d055a37eb2@74730",
+      "displayName": "",
+      "id": "74730",
+      "name": "Mesh crops_wheatStageA.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 720
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5d131": {
+      "importer": "gltf-scene",
+      "uuid": "64271d66-72a9-455e-a493-18d055a37eb2@5d131",
+      "displayName": "",
+      "id": "5d131",
+      "name": "crops_wheatStageA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "64271d66-72a9-455e-a493-18d055a37eb2@74730"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "64271d66-72a9-455e-a493-18d055a37eb2@53398"
+      ],
+      "scenes": [
+        "64271d66-72a9-455e-a493-18d055a37eb2@5d131"
+      ]
+    }
+  }
+}

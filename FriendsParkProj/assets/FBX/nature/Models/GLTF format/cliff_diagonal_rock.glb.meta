@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "dbf4164a-250e-463d-a33f-86c400c7ddef",
+  "files": [],
+  "subMetas": {
+    "a5a94": {
+      "importer": "gltf-mesh",
+      "uuid": "dbf4164a-250e-463d-a33f-86c400c7ddef@a5a94",
+      "displayName": "",
+      "id": "a5a94",
+      "name": "Mesh cliff_diagonal_rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "dbf4164a-250e-463d-a33f-86c400c7ddef@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f68d1": {
+      "importer": "gltf-scene",
+      "uuid": "dbf4164a-250e-463d-a33f-86c400c7ddef@f68d1",
+      "displayName": "",
+      "id": "f68d1",
+      "name": "cliff_diagonal_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "dbf4164a-250e-463d-a33f-86c400c7ddef@a5a94"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "dbf4164a-250e-463d-a33f-86c400c7ddef@3577b"
+      ],
+      "scenes": [
+        "dbf4164a-250e-463d-a33f-86c400c7ddef@f68d1"
+      ]
+    }
+  }
+}

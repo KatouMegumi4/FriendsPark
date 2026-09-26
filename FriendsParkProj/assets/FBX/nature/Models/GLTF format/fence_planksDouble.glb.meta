@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a68feaab-1198-4b40-84d5-d9c1c713dd31",
+  "files": [],
+  "subMetas": {
+    "aed63": {
+      "importer": "gltf-mesh",
+      "uuid": "a68feaab-1198-4b40-84d5-d9c1c713dd31@aed63",
+      "displayName": "",
+      "id": "aed63",
+      "name": "Mesh fence_planksDouble.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 152
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "a68feaab-1198-4b40-84d5-d9c1c713dd31@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf9da": {
+      "importer": "gltf-scene",
+      "uuid": "a68feaab-1198-4b40-84d5-d9c1c713dd31@cf9da",
+      "displayName": "",
+      "id": "cf9da",
+      "name": "fence_planksDouble.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a68feaab-1198-4b40-84d5-d9c1c713dd31@aed63"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "a68feaab-1198-4b40-84d5-d9c1c713dd31@e4014"
+      ],
+      "scenes": [
+        "a68feaab-1198-4b40-84d5-d9c1c713dd31@cf9da"
+      ]
+    }
+  }
+}

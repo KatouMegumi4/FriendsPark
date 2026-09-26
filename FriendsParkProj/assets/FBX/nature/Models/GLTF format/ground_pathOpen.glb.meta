@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "d09a68eb-3e77-4f2d-9e25-d0a2352cd130",
+  "files": [],
+  "subMetas": {
+    "a3b2c": {
+      "importer": "gltf-mesh",
+      "uuid": "d09a68eb-3e77-4f2d-9e25-d0a2352cd130@a3b2c",
+      "displayName": "",
+      "id": "a3b2c",
+      "name": "Mesh ground_pathOpen.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 8
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "d09a68eb-3e77-4f2d-9e25-d0a2352cd130@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a67b7": {
+      "importer": "gltf-scene",
+      "uuid": "d09a68eb-3e77-4f2d-9e25-d0a2352cd130@a67b7",
+      "displayName": "",
+      "id": "a67b7",
+      "name": "ground_pathOpen.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "d09a68eb-3e77-4f2d-9e25-d0a2352cd130@a3b2c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d09a68eb-3e77-4f2d-9e25-d0a2352cd130@3577b"
+      ],
+      "scenes": [
+        "d09a68eb-3e77-4f2d-9e25-d0a2352cd130@a67b7"
+      ]
+    }
+  }
+}

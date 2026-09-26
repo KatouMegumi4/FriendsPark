@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "bceb2e76-43e9-4733-944e-86ab7aad368c",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "bceb2e76-43e9-4733-944e-86ab7aad368c@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ef5e1": {
+      "importer": "gltf-mesh",
+      "uuid": "bceb2e76-43e9-4733-944e-86ab7aad368c@ef5e1",
+      "displayName": "",
+      "id": "ef5e1",
+      "name": "grass.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 132
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3022b": {
+      "importer": "gltf-scene",
+      "uuid": "bceb2e76-43e9-4733-944e-86ab7aad368c@3022b",
+      "displayName": "",
+      "id": "3022b",
+      "name": "grass.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "bceb2e76-43e9-4733-944e-86ab7aad368c@ef5e1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "bceb2e76-43e9-4733-944e-86ab7aad368c@53398"
+      ],
+      "scenes": [
+        "bceb2e76-43e9-4733-944e-86ab7aad368c@3022b"
+      ]
+    }
+  }
+}

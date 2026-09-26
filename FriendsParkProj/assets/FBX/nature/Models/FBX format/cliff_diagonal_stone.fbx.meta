@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "eb5a3149-7f88-4021-9fcf-00a6821d11a7",
+  "files": [],
+  "subMetas": {
+    "0a022": {
+      "importer": "gltf-mesh",
+      "uuid": "eb5a3149-7f88-4021-9fcf-00a6821d11a7@0a022",
+      "displayName": "",
+      "id": "0a022",
+      "name": "cliff_diagonal_stone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "eb5a3149-7f88-4021-9fcf-00a6821d11a7@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d0616": {
+      "importer": "gltf-scene",
+      "uuid": "eb5a3149-7f88-4021-9fcf-00a6821d11a7@d0616",
+      "displayName": "",
+      "id": "d0616",
+      "name": "cliff_diagonal_stone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "eb5a3149-7f88-4021-9fcf-00a6821d11a7@0a022"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "eb5a3149-7f88-4021-9fcf-00a6821d11a7@4de10"
+      ],
+      "scenes": [
+        "eb5a3149-7f88-4021-9fcf-00a6821d11a7@d0616"
+      ]
+    }
+  }
+}

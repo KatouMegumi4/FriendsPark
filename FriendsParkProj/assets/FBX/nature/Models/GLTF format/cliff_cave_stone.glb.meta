@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "7d864734-d025-4f0b-aa69-84ecf8b97a60",
+  "files": [],
+  "subMetas": {
+    "b1cd2": {
+      "importer": "gltf-mesh",
+      "uuid": "7d864734-d025-4f0b-aa69-84ecf8b97a60@b1cd2",
+      "displayName": "",
+      "id": "b1cd2",
+      "name": "Mesh cliff_cave_stone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 64
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "7d864734-d025-4f0b-aa69-84ecf8b97a60@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa991": {
+      "importer": "gltf-scene",
+      "uuid": "7d864734-d025-4f0b-aa69-84ecf8b97a60@aa991",
+      "displayName": "",
+      "id": "aa991",
+      "name": "cliff_cave_stone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "7d864734-d025-4f0b-aa69-84ecf8b97a60@b1cd2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7d864734-d025-4f0b-aa69-84ecf8b97a60@4de10"
+      ],
+      "scenes": [
+        "7d864734-d025-4f0b-aa69-84ecf8b97a60@aa991"
+      ]
+    }
+  }
+}

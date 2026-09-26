@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "101c5bbd-4220-46fb-b948-c4a9658d2e38",
+  "files": [],
+  "subMetas": {
+    "71bd0": {
+      "importer": "gltf-mesh",
+      "uuid": "101c5bbd-4220-46fb-b948-c4a9658d2e38@71bd0",
+      "displayName": "",
+      "id": "71bd0",
+      "name": "plant_flatShort.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af578": {
+      "importer": "gltf-material",
+      "uuid": "101c5bbd-4220-46fb-b948-c4a9658d2e38@af578",
+      "displayName": "",
+      "id": "af578",
+      "name": "leafsGreen.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8151": {
+      "importer": "gltf-scene",
+      "uuid": "101c5bbd-4220-46fb-b948-c4a9658d2e38@c8151",
+      "displayName": "",
+      "id": "c8151",
+      "name": "plant_flatShort.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "101c5bbd-4220-46fb-b948-c4a9658d2e38@71bd0"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "101c5bbd-4220-46fb-b948-c4a9658d2e38@af578"
+      ],
+      "scenes": [
+        "101c5bbd-4220-46fb-b948-c4a9658d2e38@c8151"
+      ]
+    }
+  }
+}

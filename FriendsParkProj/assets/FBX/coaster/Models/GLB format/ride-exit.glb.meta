@@ -1,0 +1,142 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a97cac09-5a94-4e6b-a435-7393b1b8d2bc",
+  "files": [],
+  "subMetas": {
+    "875b0": {
+      "importer": "gltf-mesh",
+      "uuid": "a97cac09-5a94-4e6b-a435-7393b1b8d2bc@875b0",
+      "displayName": "",
+      "id": "875b0",
+      "name": "ride-exit.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 84
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "453ed": {
+      "importer": "gltf-mesh",
+      "uuid": "a97cac09-5a94-4e6b-a435-7393b1b8d2bc@453ed",
+      "displayName": "",
+      "id": "453ed",
+      "name": "OuterShell.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 68
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96c50": {
+      "importer": "texture",
+      "uuid": "a97cac09-5a94-4e6b-a435-7393b1b8d2bc@96c50",
+      "displayName": "",
+      "id": "96c50",
+      "name": "colormap.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "nearest",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/FBX/coaster/Models/GLB format/Textures/colormap.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9991c": {
+      "importer": "gltf-material",
+      "uuid": "a97cac09-5a94-4e6b-a435-7393b1b8d2bc@9991c",
+      "displayName": "",
+      "id": "9991c",
+      "name": "colormap.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1f234": {
+      "importer": "gltf-scene",
+      "uuid": "a97cac09-5a94-4e6b-a435-7393b1b8d2bc@1f234",
+      "displayName": "",
+      "id": "1f234",
+      "name": "ride-exit.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "colormap",
+        "uri": "db://assets/FBX/coaster/Models/GLB format/Textures/colormap.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a97cac09-5a94-4e6b-a435-7393b1b8d2bc@875b0",
+        "a97cac09-5a94-4e6b-a435-7393b1b8d2bc@453ed"
+      ],
+      "skeletons": [],
+      "textures": [
+        "a97cac09-5a94-4e6b-a435-7393b1b8d2bc@96c50"
+      ],
+      "materials": [
+        "a97cac09-5a94-4e6b-a435-7393b1b8d2bc@9991c"
+      ],
+      "scenes": [
+        "a97cac09-5a94-4e6b-a435-7393b1b8d2bc@1f234"
+      ]
+    }
+  }
+}

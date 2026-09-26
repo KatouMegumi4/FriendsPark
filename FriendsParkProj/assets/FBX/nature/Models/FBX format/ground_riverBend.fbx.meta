@@ -1,0 +1,147 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0e01a552-4451-42fc-b66a-3b6709d075ea",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "0e01a552-4451-42fc-b66a-3b6709d075ea@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9338c": {
+      "importer": "gltf-mesh",
+      "uuid": "0e01a552-4451-42fc-b66a-3b6709d075ea@9338c",
+      "displayName": "",
+      "id": "9338c",
+      "name": "ground_riverBend.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 54
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fc265": {
+      "importer": "gltf-material",
+      "uuid": "0e01a552-4451-42fc-b66a-3b6709d075ea@fc265",
+      "displayName": "",
+      "id": "fc265",
+      "name": "dirtDark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "0e01a552-4451-42fc-b66a-3b6709d075ea@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0086d": {
+      "importer": "gltf-material",
+      "uuid": "0e01a552-4451-42fc-b66a-3b6709d075ea@0086d",
+      "displayName": "",
+      "id": "0086d",
+      "name": "water.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b9a66": {
+      "importer": "gltf-scene",
+      "uuid": "0e01a552-4451-42fc-b66a-3b6709d075ea@b9a66",
+      "displayName": "",
+      "id": "b9a66",
+      "name": "ground_riverBend.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "0e01a552-4451-42fc-b66a-3b6709d075ea@9338c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0e01a552-4451-42fc-b66a-3b6709d075ea@fc265",
+        "0e01a552-4451-42fc-b66a-3b6709d075ea@3577b",
+        "0e01a552-4451-42fc-b66a-3b6709d075ea@53398",
+        "0e01a552-4451-42fc-b66a-3b6709d075ea@0086d"
+      ],
+      "scenes": [
+        "0e01a552-4451-42fc-b66a-3b6709d075ea@b9a66"
+      ]
+    }
+  }
+}

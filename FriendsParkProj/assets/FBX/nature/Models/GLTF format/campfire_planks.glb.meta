@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "2619214b-2b6d-4b6e-aa57-727ab374fb46",
+  "files": [],
+  "subMetas": {
+    "bb970": {
+      "importer": "gltf-mesh",
+      "uuid": "2619214b-2b6d-4b6e-aa57-727ab374fb46@bb970",
+      "displayName": "",
+      "id": "bb970",
+      "name": "Mesh campfire_planks.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 108
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11bfd": {
+      "importer": "gltf-material",
+      "uuid": "2619214b-2b6d-4b6e-aa57-727ab374fb46@11bfd",
+      "displayName": "",
+      "id": "11bfd",
+      "name": "woodBark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "347c7": {
+      "importer": "gltf-scene",
+      "uuid": "2619214b-2b6d-4b6e-aa57-727ab374fb46@347c7",
+      "displayName": "",
+      "id": "347c7",
+      "name": "campfire_planks.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "2619214b-2b6d-4b6e-aa57-727ab374fb46@bb970"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "2619214b-2b6d-4b6e-aa57-727ab374fb46@11bfd"
+      ],
+      "scenes": [
+        "2619214b-2b6d-4b6e-aa57-727ab374fb46@347c7"
+      ]
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ca3a1c85-3401-4297-a09f-cf5db4047b4d",
+  "files": [],
+  "subMetas": {
+    "39e64": {
+      "importer": "gltf-mesh",
+      "uuid": "ca3a1c85-3401-4297-a09f-cf5db4047b4d@39e64",
+      "displayName": "",
+      "id": "39e64",
+      "name": "tree_palmDetailedShort-0.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 36
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0c41f": {
+      "importer": "gltf-mesh",
+      "uuid": "ca3a1c85-3401-4297-a09f-cf5db4047b4d@0c41f",
+      "displayName": "",
+      "id": "0c41f",
+      "name": "leafs-1.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 150
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "685f5": {
+      "importer": "gltf-mesh",
+      "uuid": "ca3a1c85-3401-4297-a09f-cf5db4047b4d@685f5",
+      "displayName": "",
+      "id": "685f5",
+      "name": "leafs-2.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 150
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11bfd": {
+      "importer": "gltf-material",
+      "uuid": "ca3a1c85-3401-4297-a09f-cf5db4047b4d@11bfd",
+      "displayName": "",
+      "id": "11bfd",
+      "name": "woodBark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af578": {
+      "importer": "gltf-material",
+      "uuid": "ca3a1c85-3401-4297-a09f-cf5db4047b4d@af578",
+      "displayName": "",
+      "id": "af578",
+      "name": "leafsGreen.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6b57e": {
+      "importer": "gltf-scene",
+      "uuid": "ca3a1c85-3401-4297-a09f-cf5db4047b4d@6b57e",
+      "displayName": "",
+      "id": "6b57e",
+      "name": "tree_palmDetailedShort.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "ca3a1c85-3401-4297-a09f-cf5db4047b4d@39e64",
+        "ca3a1c85-3401-4297-a09f-cf5db4047b4d@0c41f",
+        "ca3a1c85-3401-4297-a09f-cf5db4047b4d@685f5"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ca3a1c85-3401-4297-a09f-cf5db4047b4d@11bfd",
+        "ca3a1c85-3401-4297-a09f-cf5db4047b4d@af578"
+      ],
+      "scenes": [
+        "ca3a1c85-3401-4297-a09f-cf5db4047b4d@6b57e"
+      ]
+    }
+  }
+}

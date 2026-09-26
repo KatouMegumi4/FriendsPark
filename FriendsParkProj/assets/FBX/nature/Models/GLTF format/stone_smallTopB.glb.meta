@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "6502b70a-3908-47c3-abec-0247ab24d325",
+  "files": [],
+  "subMetas": {
+    "2dff7": {
+      "importer": "gltf-mesh",
+      "uuid": "6502b70a-3908-47c3-abec-0247ab24d325@2dff7",
+      "displayName": "",
+      "id": "2dff7",
+      "name": "Mesh stone_smallTopB.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 76
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "6502b70a-3908-47c3-abec-0247ab24d325@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d840": {
+      "importer": "gltf-scene",
+      "uuid": "6502b70a-3908-47c3-abec-0247ab24d325@9d840",
+      "displayName": "",
+      "id": "9d840",
+      "name": "stone_smallTopB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "6502b70a-3908-47c3-abec-0247ab24d325@2dff7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "6502b70a-3908-47c3-abec-0247ab24d325@4de10"
+      ],
+      "scenes": [
+        "6502b70a-3908-47c3-abec-0247ab24d325@9d840"
+      ]
+    }
+  }
+}

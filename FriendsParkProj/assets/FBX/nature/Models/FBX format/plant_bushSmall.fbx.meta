@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "de0b3982-1743-4287-b87f-cba277aaeb2b",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "de0b3982-1743-4287-b87f-cba277aaeb2b@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f561f": {
+      "importer": "gltf-mesh",
+      "uuid": "de0b3982-1743-4287-b87f-cba277aaeb2b@f561f",
+      "displayName": "",
+      "id": "f561f",
+      "name": "plant_bushSmall.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 16
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "15b83": {
+      "importer": "gltf-scene",
+      "uuid": "de0b3982-1743-4287-b87f-cba277aaeb2b@15b83",
+      "displayName": "",
+      "id": "15b83",
+      "name": "plant_bushSmall.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "de0b3982-1743-4287-b87f-cba277aaeb2b@f561f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "de0b3982-1743-4287-b87f-cba277aaeb2b@53398"
+      ],
+      "scenes": [
+        "de0b3982-1743-4287-b87f-cba277aaeb2b@15b83"
+      ]
+    }
+  }
+}

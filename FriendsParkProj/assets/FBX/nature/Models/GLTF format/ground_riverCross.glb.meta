@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a8d27630-f451-4330-baf8-98862b238b52",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "a8d27630-f451-4330-baf8-98862b238b52@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "57cfd": {
+      "importer": "gltf-mesh",
+      "uuid": "a8d27630-f451-4330-baf8-98862b238b52@57cfd",
+      "displayName": "",
+      "id": "57cfd",
+      "name": "Mesh ground_riverCross.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 82
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fc265": {
+      "importer": "gltf-material",
+      "uuid": "a8d27630-f451-4330-baf8-98862b238b52@fc265",
+      "displayName": "",
+      "id": "fc265",
+      "name": "dirtDark.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "a8d27630-f451-4330-baf8-98862b238b52@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0086d": {
+      "importer": "gltf-material",
+      "uuid": "a8d27630-f451-4330-baf8-98862b238b52@0086d",
+      "displayName": "",
+      "id": "0086d",
+      "name": "water.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "31a97": {
+      "importer": "gltf-scene",
+      "uuid": "a8d27630-f451-4330-baf8-98862b238b52@31a97",
+      "displayName": "",
+      "id": "31a97",
+      "name": "ground_riverCross.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a8d27630-f451-4330-baf8-98862b238b52@57cfd"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "a8d27630-f451-4330-baf8-98862b238b52@53398",
+        "a8d27630-f451-4330-baf8-98862b238b52@fc265",
+        "a8d27630-f451-4330-baf8-98862b238b52@3577b",
+        "a8d27630-f451-4330-baf8-98862b238b52@0086d"
+      ],
+      "scenes": [
+        "a8d27630-f451-4330-baf8-98862b238b52@31a97"
+      ]
+    }
+  }
+}

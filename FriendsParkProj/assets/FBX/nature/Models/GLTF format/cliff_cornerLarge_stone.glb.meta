@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "7a63c6d7-0798-43ad-bef6-fa0b903d5186",
+  "files": [],
+  "subMetas": {
+    "24677": {
+      "importer": "gltf-scene",
+      "uuid": "7a63c6d7-0798-43ad-bef6-fa0b903d5186@24677",
+      "displayName": "",
+      "id": "24677",
+      "name": "cliff_cornerLarge_stone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0d49b": {
+      "importer": "gltf-mesh",
+      "uuid": "7a63c6d7-0798-43ad-bef6-fa0b903d5186@0d49b",
+      "displayName": "",
+      "id": "0d49b",
+      "name": "Mesh cliff_cornerLarge_stone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 24
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "7a63c6d7-0798-43ad-bef6-fa0b903d5186@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "7a63c6d7-0798-43ad-bef6-fa0b903d5186@0d49b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7a63c6d7-0798-43ad-bef6-fa0b903d5186@4de10"
+      ],
+      "scenes": [
+        "7a63c6d7-0798-43ad-bef6-fa0b903d5186@24677"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "044a9166-411f-4d4b-b21d-fa08a7a23afc",
+  "files": [],
+  "subMetas": {
+    "b2e57": {
+      "importer": "gltf-mesh",
+      "uuid": "044a9166-411f-4d4b-b21d-fa08a7a23afc@b2e57",
+      "displayName": "",
+      "id": "b2e57",
+      "name": "cliff_cave_stone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 64
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "044a9166-411f-4d4b-b21d-fa08a7a23afc@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "aa991": {
+      "importer": "gltf-scene",
+      "uuid": "044a9166-411f-4d4b-b21d-fa08a7a23afc@aa991",
+      "displayName": "",
+      "id": "aa991",
+      "name": "cliff_cave_stone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "044a9166-411f-4d4b-b21d-fa08a7a23afc@b2e57"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "044a9166-411f-4d4b-b21d-fa08a7a23afc@4de10"
+      ],
+      "scenes": [
+        "044a9166-411f-4d4b-b21d-fa08a7a23afc@aa991"
+      ]
+    }
+  }
+}

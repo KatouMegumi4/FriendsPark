@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "d10ec6ea-3bff-44a8-9c87-88dedc1c8e91",
+  "files": [],
+  "subMetas": {
+    "086e1": {
+      "importer": "gltf-mesh",
+      "uuid": "d10ec6ea-3bff-44a8-9c87-88dedc1c8e91@086e1",
+      "displayName": "",
+      "id": "086e1",
+      "name": "platform_beach.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 192
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5580": {
+      "importer": "gltf-material",
+      "uuid": "d10ec6ea-3bff-44a8-9c87-88dedc1c8e91@c5580",
+      "displayName": "",
+      "id": "c5580",
+      "name": "woodInner.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ce8b9": {
+      "importer": "gltf-scene",
+      "uuid": "d10ec6ea-3bff-44a8-9c87-88dedc1c8e91@ce8b9",
+      "displayName": "",
+      "id": "ce8b9",
+      "name": "platform_beach.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "d10ec6ea-3bff-44a8-9c87-88dedc1c8e91@086e1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d10ec6ea-3bff-44a8-9c87-88dedc1c8e91@c5580"
+      ],
+      "scenes": [
+        "d10ec6ea-3bff-44a8-9c87-88dedc1c8e91@ce8b9"
+      ]
+    }
+  }
+}

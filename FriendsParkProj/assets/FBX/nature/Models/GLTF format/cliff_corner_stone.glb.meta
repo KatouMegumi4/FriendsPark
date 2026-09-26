@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "bdaf4edb-0383-465a-887e-d30211fb8200",
+  "files": [],
+  "subMetas": {
+    "038ea": {
+      "importer": "gltf-mesh",
+      "uuid": "bdaf4edb-0383-465a-887e-d30211fb8200@038ea",
+      "displayName": "",
+      "id": "038ea",
+      "name": "Mesh cliff_corner_stone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "bdaf4edb-0383-465a-887e-d30211fb8200@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "422a1": {
+      "importer": "gltf-scene",
+      "uuid": "bdaf4edb-0383-465a-887e-d30211fb8200@422a1",
+      "displayName": "",
+      "id": "422a1",
+      "name": "cliff_corner_stone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "bdaf4edb-0383-465a-887e-d30211fb8200@038ea"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "bdaf4edb-0383-465a-887e-d30211fb8200@4de10"
+      ],
+      "scenes": [
+        "bdaf4edb-0383-465a-887e-d30211fb8200@422a1"
+      ]
+    }
+  }
+}

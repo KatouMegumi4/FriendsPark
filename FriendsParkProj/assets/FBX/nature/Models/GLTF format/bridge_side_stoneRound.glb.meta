@@ -1,0 +1,110 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "f131bb1a-9791-4591-bf46-0f09166bce89",
+  "files": [],
+  "subMetas": {
+    "7cc8a": {
+      "importer": "gltf-mesh",
+      "uuid": "f131bb1a-9791-4591-bf46-0f09166bce89@7cc8a",
+      "displayName": "",
+      "id": "7cc8a",
+      "name": "Mesh bridge_side_stoneRound.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 198
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5353c": {
+      "importer": "gltf-material",
+      "uuid": "f131bb1a-9791-4591-bf46-0f09166bce89@5353c",
+      "displayName": "",
+      "id": "5353c",
+      "name": "stoneDark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "f131bb1a-9791-4591-bf46-0f09166bce89@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ff389": {
+      "importer": "gltf-scene",
+      "uuid": "f131bb1a-9791-4591-bf46-0f09166bce89@ff389",
+      "displayName": "",
+      "id": "ff389",
+      "name": "bridge_side_stoneRound.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f131bb1a-9791-4591-bf46-0f09166bce89@7cc8a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f131bb1a-9791-4591-bf46-0f09166bce89@5353c",
+        "f131bb1a-9791-4591-bf46-0f09166bce89@4de10"
+      ],
+      "scenes": [
+        "f131bb1a-9791-4591-bf46-0f09166bce89@ff389"
+      ]
+    }
+  }
+}

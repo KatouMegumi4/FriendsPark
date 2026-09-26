@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1ba35354-883d-432c-8a3d-04281fec1ebe",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "1ba35354-883d-432c-8a3d-04281fec1ebe@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f2c33": {
+      "importer": "gltf-mesh",
+      "uuid": "1ba35354-883d-432c-8a3d-04281fec1ebe@f2c33",
+      "displayName": "",
+      "id": "f2c33",
+      "name": "plant_bushLargeTriangle.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 39
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3dc18": {
+      "importer": "gltf-scene",
+      "uuid": "1ba35354-883d-432c-8a3d-04281fec1ebe@3dc18",
+      "displayName": "",
+      "id": "3dc18",
+      "name": "plant_bushLargeTriangle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "1ba35354-883d-432c-8a3d-04281fec1ebe@f2c33"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "1ba35354-883d-432c-8a3d-04281fec1ebe@53398"
+      ],
+      "scenes": [
+        "1ba35354-883d-432c-8a3d-04281fec1ebe@3dc18"
+      ]
+    }
+  }
+}

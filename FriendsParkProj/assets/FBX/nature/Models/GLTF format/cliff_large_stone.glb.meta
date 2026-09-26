@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "19872ad6-52b6-423c-a79c-494f26d877b8",
+  "files": [],
+  "subMetas": {
+    "b3731": {
+      "importer": "gltf-mesh",
+      "uuid": "19872ad6-52b6-423c-a79c-494f26d877b8@b3731",
+      "displayName": "",
+      "id": "b3731",
+      "name": "Mesh cliff_large_stone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "19872ad6-52b6-423c-a79c-494f26d877b8@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3117": {
+      "importer": "gltf-scene",
+      "uuid": "19872ad6-52b6-423c-a79c-494f26d877b8@f3117",
+      "displayName": "",
+      "id": "f3117",
+      "name": "cliff_large_stone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "19872ad6-52b6-423c-a79c-494f26d877b8@b3731"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "19872ad6-52b6-423c-a79c-494f26d877b8@4de10"
+      ],
+      "scenes": [
+        "19872ad6-52b6-423c-a79c-494f26d877b8@f3117"
+      ]
+    }
+  }
+}

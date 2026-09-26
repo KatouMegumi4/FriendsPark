@@ -1,0 +1,146 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "8ddaeace-417a-4078-9d97-f984750f4ec1",
+  "files": [],
+  "subMetas": {
+    "86b8c": {
+      "importer": "gltf-mesh",
+      "uuid": "8ddaeace-417a-4078-9d97-f984750f4ec1@86b8c",
+      "displayName": "",
+      "id": "86b8c",
+      "name": "Mesh fence_gate.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 128
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c5cf4": {
+      "importer": "gltf-mesh",
+      "uuid": "8ddaeace-417a-4078-9d97-f984750f4ec1@c5cf4",
+      "displayName": "",
+      "id": "c5cf4",
+      "name": "Mesh gate.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 396
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "8ddaeace-417a-4078-9d97-f984750f4ec1@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "938e8": {
+      "importer": "gltf-material",
+      "uuid": "8ddaeace-417a-4078-9d97-f984750f4ec1@938e8",
+      "displayName": "",
+      "id": "938e8",
+      "name": "woodDark.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "8ddaeace-417a-4078-9d97-f984750f4ec1@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b219a": {
+      "importer": "gltf-scene",
+      "uuid": "8ddaeace-417a-4078-9d97-f984750f4ec1@b219a",
+      "displayName": "",
+      "id": "b219a",
+      "name": "fence_gate.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "8ddaeace-417a-4078-9d97-f984750f4ec1@86b8c",
+        "8ddaeace-417a-4078-9d97-f984750f4ec1@c5cf4"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "8ddaeace-417a-4078-9d97-f984750f4ec1@e4014",
+        "8ddaeace-417a-4078-9d97-f984750f4ec1@938e8",
+        "8ddaeace-417a-4078-9d97-f984750f4ec1@4de10"
+      ],
+      "scenes": [
+        "8ddaeace-417a-4078-9d97-f984750f4ec1@b219a"
+      ]
+    }
+  }
+}

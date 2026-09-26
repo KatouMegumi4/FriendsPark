@@ -1,0 +1,178 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "7fd83012-5ddd-462b-bec1-14a55a924be3",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "7fd83012-5ddd-462b-bec1-14a55a924be3@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "09cc2": {
+      "importer": "gltf-mesh",
+      "uuid": "7fd83012-5ddd-462b-bec1-14a55a924be3@09cc2",
+      "displayName": "",
+      "id": "09cc2",
+      "name": "Mesh cliff_waterfallTop_stone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 60
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0086d": {
+      "importer": "gltf-material",
+      "uuid": "7fd83012-5ddd-462b-bec1-14a55a924be3@0086d",
+      "displayName": "",
+      "id": "0086d",
+      "name": "water.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0ee4f": {
+      "importer": "gltf-material",
+      "uuid": "7fd83012-5ddd-462b-bec1-14a55a924be3@0ee4f",
+      "displayName": "",
+      "id": "0ee4f",
+      "name": "_defaultMat.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "7fd83012-5ddd-462b-bec1-14a55a924be3@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "7fd83012-5ddd-462b-bec1-14a55a924be3@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 4
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fc265": {
+      "importer": "gltf-material",
+      "uuid": "7fd83012-5ddd-462b-bec1-14a55a924be3@fc265",
+      "displayName": "",
+      "id": "fc265",
+      "name": "dirtDark.material",
+      "userData": {
+        "gltfIndex": 5
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8489b": {
+      "importer": "gltf-scene",
+      "uuid": "7fd83012-5ddd-462b-bec1-14a55a924be3@8489b",
+      "displayName": "",
+      "id": "8489b",
+      "name": "cliff_waterfallTop_stone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "7fd83012-5ddd-462b-bec1-14a55a924be3@09cc2"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7fd83012-5ddd-462b-bec1-14a55a924be3@0086d",
+        "7fd83012-5ddd-462b-bec1-14a55a924be3@0ee4f",
+        "7fd83012-5ddd-462b-bec1-14a55a924be3@4de10",
+        "7fd83012-5ddd-462b-bec1-14a55a924be3@53398",
+        "7fd83012-5ddd-462b-bec1-14a55a924be3@3577b",
+        "7fd83012-5ddd-462b-bec1-14a55a924be3@fc265"
+      ],
+      "scenes": [
+        "7fd83012-5ddd-462b-bec1-14a55a924be3@8489b"
+      ]
+    }
+  }
+}

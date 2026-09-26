@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fab3a95a-e043-48c0-a2df-619400288ecb",
+  "files": [],
+  "subMetas": {
+    "40690": {
+      "importer": "gltf-mesh",
+      "uuid": "fab3a95a-e043-48c0-a2df-619400288ecb@40690",
+      "displayName": "",
+      "id": "40690",
+      "name": "cactus_short.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 116
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af578": {
+      "importer": "gltf-material",
+      "uuid": "fab3a95a-e043-48c0-a2df-619400288ecb@af578",
+      "displayName": "",
+      "id": "af578",
+      "name": "leafsGreen.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6a9ec": {
+      "importer": "gltf-scene",
+      "uuid": "fab3a95a-e043-48c0-a2df-619400288ecb@6a9ec",
+      "displayName": "",
+      "id": "6a9ec",
+      "name": "cactus_short.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "fab3a95a-e043-48c0-a2df-619400288ecb@40690"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "fab3a95a-e043-48c0-a2df-619400288ecb@af578"
+      ],
+      "scenes": [
+        "fab3a95a-e043-48c0-a2df-619400288ecb@6a9ec"
+      ]
+    }
+  }
+}

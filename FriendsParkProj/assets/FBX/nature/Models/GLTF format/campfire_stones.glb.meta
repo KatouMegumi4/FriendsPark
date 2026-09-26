@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "3903c03d-e42a-4c78-abd7-317d699112d6",
+  "files": [],
+  "subMetas": {
+    "5fee4": {
+      "importer": "gltf-mesh",
+      "uuid": "3903c03d-e42a-4c78-abd7-317d699112d6@5fee4",
+      "displayName": "",
+      "id": "5fee4",
+      "name": "Mesh campfire_stones.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 264
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "3903c03d-e42a-4c78-abd7-317d699112d6@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7b9e9": {
+      "importer": "gltf-scene",
+      "uuid": "3903c03d-e42a-4c78-abd7-317d699112d6@7b9e9",
+      "displayName": "",
+      "id": "7b9e9",
+      "name": "campfire_stones.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "3903c03d-e42a-4c78-abd7-317d699112d6@5fee4"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "3903c03d-e42a-4c78-abd7-317d699112d6@4de10"
+      ],
+      "scenes": [
+        "3903c03d-e42a-4c78-abd7-317d699112d6@7b9e9"
+      ]
+    }
+  }
+}

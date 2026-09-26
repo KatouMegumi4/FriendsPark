@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "41144e44-40fb-4cbf-bea1-71d520b3d559",
+  "files": [],
+  "subMetas": {
+    "00c0a": {
+      "importer": "gltf-mesh",
+      "uuid": "41144e44-40fb-4cbf-bea1-71d520b3d559@00c0a",
+      "displayName": "",
+      "id": "00c0a",
+      "name": "stone_smallTopB.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 76
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "41144e44-40fb-4cbf-bea1-71d520b3d559@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9d840": {
+      "importer": "gltf-scene",
+      "uuid": "41144e44-40fb-4cbf-bea1-71d520b3d559@9d840",
+      "displayName": "",
+      "id": "9d840",
+      "name": "stone_smallTopB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "41144e44-40fb-4cbf-bea1-71d520b3d559@00c0a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "41144e44-40fb-4cbf-bea1-71d520b3d559@4de10"
+      ],
+      "scenes": [
+        "41144e44-40fb-4cbf-bea1-71d520b3d559@9d840"
+      ]
+    }
+  }
+}

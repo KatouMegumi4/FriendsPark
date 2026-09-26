@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "224101b5-2953-40bc-a516-33e20a2e42c2",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "224101b5-2953-40bc-a516-33e20a2e42c2@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4b4d9": {
+      "importer": "gltf-mesh",
+      "uuid": "224101b5-2953-40bc-a516-33e20a2e42c2@4b4d9",
+      "displayName": "",
+      "id": "4b4d9",
+      "name": "Mesh crops_bambooStageA.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 276
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "163d6": {
+      "importer": "gltf-scene",
+      "uuid": "224101b5-2953-40bc-a516-33e20a2e42c2@163d6",
+      "displayName": "",
+      "id": "163d6",
+      "name": "crops_bambooStageA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "224101b5-2953-40bc-a516-33e20a2e42c2@4b4d9"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "224101b5-2953-40bc-a516-33e20a2e42c2@53398"
+      ],
+      "scenes": [
+        "224101b5-2953-40bc-a516-33e20a2e42c2@163d6"
+      ]
+    }
+  }
+}

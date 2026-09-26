@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "0b0475e2-3094-4c49-b487-466cc8141020",
+  "files": [],
+  "subMetas": {
+    "f7595": {
+      "importer": "gltf-mesh",
+      "uuid": "0b0475e2-3094-4c49-b487-466cc8141020@f7595",
+      "displayName": "",
+      "id": "f7595",
+      "name": "Mesh cliff_cornerInnerLarge_stone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "0b0475e2-3094-4c49-b487-466cc8141020@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bfe9c": {
+      "importer": "gltf-scene",
+      "uuid": "0b0475e2-3094-4c49-b487-466cc8141020@bfe9c",
+      "displayName": "",
+      "id": "bfe9c",
+      "name": "cliff_cornerInnerLarge_stone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "0b0475e2-3094-4c49-b487-466cc8141020@f7595"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0b0475e2-3094-4c49-b487-466cc8141020@4de10"
+      ],
+      "scenes": [
+        "0b0475e2-3094-4c49-b487-466cc8141020@bfe9c"
+      ]
+    }
+  }
+}

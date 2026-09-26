@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fe86ec80-26d5-45e2-8a3f-00ae56f2457a",
+  "files": [],
+  "subMetas": {
+    "31ab7": {
+      "importer": "gltf-mesh",
+      "uuid": "fe86ec80-26d5-45e2-8a3f-00ae56f2457a@31ab7",
+      "displayName": "",
+      "id": "31ab7",
+      "name": "stone_smallTopA.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 52
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "fe86ec80-26d5-45e2-8a3f-00ae56f2457a@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6215f": {
+      "importer": "gltf-scene",
+      "uuid": "fe86ec80-26d5-45e2-8a3f-00ae56f2457a@6215f",
+      "displayName": "",
+      "id": "6215f",
+      "name": "stone_smallTopA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "fe86ec80-26d5-45e2-8a3f-00ae56f2457a@31ab7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "fe86ec80-26d5-45e2-8a3f-00ae56f2457a@4de10"
+      ],
+      "scenes": [
+        "fe86ec80-26d5-45e2-8a3f-00ae56f2457a@6215f"
+      ]
+    }
+  }
+}

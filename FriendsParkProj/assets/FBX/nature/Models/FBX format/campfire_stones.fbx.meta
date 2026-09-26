@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "cb2b4f33-6493-413c-9475-fc5961dc45ec",
+  "files": [],
+  "subMetas": {
+    "1db8d": {
+      "importer": "gltf-mesh",
+      "uuid": "cb2b4f33-6493-413c-9475-fc5961dc45ec@1db8d",
+      "displayName": "",
+      "id": "1db8d",
+      "name": "campfire_stones.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 264
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "cb2b4f33-6493-413c-9475-fc5961dc45ec@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7b9e9": {
+      "importer": "gltf-scene",
+      "uuid": "cb2b4f33-6493-413c-9475-fc5961dc45ec@7b9e9",
+      "displayName": "",
+      "id": "7b9e9",
+      "name": "campfire_stones.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "cb2b4f33-6493-413c-9475-fc5961dc45ec@1db8d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "cb2b4f33-6493-413c-9475-fc5961dc45ec@4de10"
+      ],
+      "scenes": [
+        "cb2b4f33-6493-413c-9475-fc5961dc45ec@7b9e9"
+      ]
+    }
+  }
+}

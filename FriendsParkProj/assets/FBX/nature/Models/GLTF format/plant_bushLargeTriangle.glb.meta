@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "e2e00c00-cada-4a75-b910-6654c1b6be1a",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "e2e00c00-cada-4a75-b910-6654c1b6be1a@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e8ead": {
+      "importer": "gltf-mesh",
+      "uuid": "e2e00c00-cada-4a75-b910-6654c1b6be1a@e8ead",
+      "displayName": "",
+      "id": "e8ead",
+      "name": "Mesh plant_bushLargeTriangle.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 39
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3dc18": {
+      "importer": "gltf-scene",
+      "uuid": "e2e00c00-cada-4a75-b910-6654c1b6be1a@3dc18",
+      "displayName": "",
+      "id": "3dc18",
+      "name": "plant_bushLargeTriangle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "e2e00c00-cada-4a75-b910-6654c1b6be1a@e8ead"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e2e00c00-cada-4a75-b910-6654c1b6be1a@53398"
+      ],
+      "scenes": [
+        "e2e00c00-cada-4a75-b910-6654c1b6be1a@3dc18"
+      ]
+    }
+  }
+}

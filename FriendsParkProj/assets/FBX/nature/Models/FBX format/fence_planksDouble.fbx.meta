@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "043a2c37-e1b8-45a4-be95-e9aae721dd9d",
+  "files": [],
+  "subMetas": {
+    "28c80": {
+      "importer": "gltf-mesh",
+      "uuid": "043a2c37-e1b8-45a4-be95-e9aae721dd9d@28c80",
+      "displayName": "",
+      "id": "28c80",
+      "name": "fence_planksDouble.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 152
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "043a2c37-e1b8-45a4-be95-e9aae721dd9d@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cf9da": {
+      "importer": "gltf-scene",
+      "uuid": "043a2c37-e1b8-45a4-be95-e9aae721dd9d@cf9da",
+      "displayName": "",
+      "id": "cf9da",
+      "name": "fence_planksDouble.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "043a2c37-e1b8-45a4-be95-e9aae721dd9d@28c80"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "043a2c37-e1b8-45a4-be95-e9aae721dd9d@e4014"
+      ],
+      "scenes": [
+        "043a2c37-e1b8-45a4-be95-e9aae721dd9d@cf9da"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "f4bbd237-1496-4de2-9b86-b2a58c276554",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "f4bbd237-1496-4de2-9b86-b2a58c276554@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d2a7e": {
+      "importer": "gltf-mesh",
+      "uuid": "f4bbd237-1496-4de2-9b86-b2a58c276554@d2a7e",
+      "displayName": "",
+      "id": "d2a7e",
+      "name": "Mesh plant_bushDetailed.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 104
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d7abc": {
+      "importer": "gltf-scene",
+      "uuid": "f4bbd237-1496-4de2-9b86-b2a58c276554@d7abc",
+      "displayName": "",
+      "id": "d7abc",
+      "name": "plant_bushDetailed.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f4bbd237-1496-4de2-9b86-b2a58c276554@d2a7e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f4bbd237-1496-4de2-9b86-b2a58c276554@53398"
+      ],
+      "scenes": [
+        "f4bbd237-1496-4de2-9b86-b2a58c276554@d7abc"
+      ]
+    }
+  }
+}

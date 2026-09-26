@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1ee998a8-7548-4055-9732-bafb538de9e8",
+  "files": [],
+  "subMetas": {
+    "15291": {
+      "importer": "gltf-mesh",
+      "uuid": "1ee998a8-7548-4055-9732-bafb538de9e8@15291",
+      "displayName": "",
+      "id": "15291",
+      "name": "cliff_large_rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "1ee998a8-7548-4055-9732-bafb538de9e8@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "89b62": {
+      "importer": "gltf-scene",
+      "uuid": "1ee998a8-7548-4055-9732-bafb538de9e8@89b62",
+      "displayName": "",
+      "id": "89b62",
+      "name": "cliff_large_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "1ee998a8-7548-4055-9732-bafb538de9e8@15291"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "1ee998a8-7548-4055-9732-bafb538de9e8@3577b"
+      ],
+      "scenes": [
+        "1ee998a8-7548-4055-9732-bafb538de9e8@89b62"
+      ]
+    }
+  }
+}

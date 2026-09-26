@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "20fd56b0-14f7-428c-8a36-ed9f9e35f9e8",
+  "files": [],
+  "subMetas": {
+    "9f42c": {
+      "importer": "gltf-mesh",
+      "uuid": "20fd56b0-14f7-428c-8a36-ed9f9e35f9e8@9f42c",
+      "displayName": "",
+      "id": "9f42c",
+      "name": "Mesh canoe_paddle.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "20fd56b0-14f7-428c-8a36-ed9f9e35f9e8@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "be05c": {
+      "importer": "gltf-scene",
+      "uuid": "20fd56b0-14f7-428c-8a36-ed9f9e35f9e8@be05c",
+      "displayName": "",
+      "id": "be05c",
+      "name": "canoe_paddle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "20fd56b0-14f7-428c-8a36-ed9f9e35f9e8@9f42c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "20fd56b0-14f7-428c-8a36-ed9f9e35f9e8@e4014"
+      ],
+      "scenes": [
+        "20fd56b0-14f7-428c-8a36-ed9f9e35f9e8@be05c"
+      ]
+    }
+  }
+}

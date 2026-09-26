@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9c04df80-aa62-4e70-9b86-59692292b73f",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "9c04df80-aa62-4e70-9b86-59692292b73f@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "95f16": {
+      "importer": "gltf-mesh",
+      "uuid": "9c04df80-aa62-4e70-9b86-59692292b73f@95f16",
+      "displayName": "",
+      "id": "95f16",
+      "name": "grass_large.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 224
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d7b8": {
+      "importer": "gltf-scene",
+      "uuid": "9c04df80-aa62-4e70-9b86-59692292b73f@1d7b8",
+      "displayName": "",
+      "id": "1d7b8",
+      "name": "grass_large.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "9c04df80-aa62-4e70-9b86-59692292b73f@95f16"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "9c04df80-aa62-4e70-9b86-59692292b73f@53398"
+      ],
+      "scenes": [
+        "9c04df80-aa62-4e70-9b86-59692292b73f@1d7b8"
+      ]
+    }
+  }
+}

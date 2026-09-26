@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "f2a29374-2449-4739-b1d3-441c1f2186a5",
+  "files": [],
+  "subMetas": {
+    "177f7": {
+      "importer": "gltf-mesh",
+      "uuid": "f2a29374-2449-4739-b1d3-441c1f2186a5@177f7",
+      "displayName": "",
+      "id": "177f7",
+      "name": "Mesh fence_simpleHigh.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "f2a29374-2449-4739-b1d3-441c1f2186a5@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4adea": {
+      "importer": "gltf-scene",
+      "uuid": "f2a29374-2449-4739-b1d3-441c1f2186a5@4adea",
+      "displayName": "",
+      "id": "4adea",
+      "name": "fence_simpleHigh.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f2a29374-2449-4739-b1d3-441c1f2186a5@177f7"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f2a29374-2449-4739-b1d3-441c1f2186a5@e4014"
+      ],
+      "scenes": [
+        "f2a29374-2449-4739-b1d3-441c1f2186a5@4adea"
+      ]
+    }
+  }
+}

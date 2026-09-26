@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "83f9c97b-0a82-4ec4-bb3e-8a3163e62ee5",
+  "files": [],
+  "subMetas": {
+    "61711": {
+      "importer": "gltf-mesh",
+      "uuid": "83f9c97b-0a82-4ec4-bb3e-8a3163e62ee5@61711",
+      "displayName": "",
+      "id": "61711",
+      "name": "cliff_cave_rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 64
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "83f9c97b-0a82-4ec4-bb3e-8a3163e62ee5@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "44b7e": {
+      "importer": "gltf-scene",
+      "uuid": "83f9c97b-0a82-4ec4-bb3e-8a3163e62ee5@44b7e",
+      "displayName": "",
+      "id": "44b7e",
+      "name": "cliff_cave_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "83f9c97b-0a82-4ec4-bb3e-8a3163e62ee5@61711"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "83f9c97b-0a82-4ec4-bb3e-8a3163e62ee5@3577b"
+      ],
+      "scenes": [
+        "83f9c97b-0a82-4ec4-bb3e-8a3163e62ee5@44b7e"
+      ]
+    }
+  }
+}

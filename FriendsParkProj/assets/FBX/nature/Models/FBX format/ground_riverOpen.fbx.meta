@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "c41c517e-e9be-4cbf-80ec-5af27a62f954",
+  "files": [],
+  "subMetas": {
+    "80cb8": {
+      "importer": "gltf-mesh",
+      "uuid": "c41c517e-e9be-4cbf-80ec-5af27a62f954@80cb8",
+      "displayName": "",
+      "id": "80cb8",
+      "name": "ground_riverOpen.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 8
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0086d": {
+      "importer": "gltf-material",
+      "uuid": "c41c517e-e9be-4cbf-80ec-5af27a62f954@0086d",
+      "displayName": "",
+      "id": "0086d",
+      "name": "water.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ff41": {
+      "importer": "gltf-scene",
+      "uuid": "c41c517e-e9be-4cbf-80ec-5af27a62f954@1ff41",
+      "displayName": "",
+      "id": "1ff41",
+      "name": "ground_riverOpen.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c41c517e-e9be-4cbf-80ec-5af27a62f954@80cb8"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "c41c517e-e9be-4cbf-80ec-5af27a62f954@0086d"
+      ],
+      "scenes": [
+        "c41c517e-e9be-4cbf-80ec-5af27a62f954@1ff41"
+      ]
+    }
+  }
+}

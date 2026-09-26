@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "7380dcd4-6b31-48e3-8fb3-2ba3072f456c",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "7380dcd4-6b31-48e3-8fb3-2ba3072f456c@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b0757": {
+      "importer": "gltf-mesh",
+      "uuid": "7380dcd4-6b31-48e3-8fb3-2ba3072f456c@b0757",
+      "displayName": "",
+      "id": "b0757",
+      "name": "Mesh ground_riverEndClosed.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 84
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "7380dcd4-6b31-48e3-8fb3-2ba3072f456c@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0086d": {
+      "importer": "gltf-material",
+      "uuid": "7380dcd4-6b31-48e3-8fb3-2ba3072f456c@0086d",
+      "displayName": "",
+      "id": "0086d",
+      "name": "water.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fc265": {
+      "importer": "gltf-material",
+      "uuid": "7380dcd4-6b31-48e3-8fb3-2ba3072f456c@fc265",
+      "displayName": "",
+      "id": "fc265",
+      "name": "dirtDark.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cb49d": {
+      "importer": "gltf-scene",
+      "uuid": "7380dcd4-6b31-48e3-8fb3-2ba3072f456c@cb49d",
+      "displayName": "",
+      "id": "cb49d",
+      "name": "ground_riverEndClosed.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "7380dcd4-6b31-48e3-8fb3-2ba3072f456c@b0757"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7380dcd4-6b31-48e3-8fb3-2ba3072f456c@53398",
+        "7380dcd4-6b31-48e3-8fb3-2ba3072f456c@3577b",
+        "7380dcd4-6b31-48e3-8fb3-2ba3072f456c@0086d",
+        "7380dcd4-6b31-48e3-8fb3-2ba3072f456c@fc265"
+      ],
+      "scenes": [
+        "7380dcd4-6b31-48e3-8fb3-2ba3072f456c@cb49d"
+      ]
+    }
+  }
+}

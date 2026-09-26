@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "f441e32c-54c5-41cc-aa04-3f010e28eff4",
+  "files": [],
+  "subMetas": {
+    "6d694": {
+      "importer": "gltf-mesh",
+      "uuid": "f441e32c-54c5-41cc-aa04-3f010e28eff4@6d694",
+      "displayName": "",
+      "id": "6d694",
+      "name": "Mesh fence_simpleLow.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "f441e32c-54c5-41cc-aa04-3f010e28eff4@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f7a3c": {
+      "importer": "gltf-scene",
+      "uuid": "f441e32c-54c5-41cc-aa04-3f010e28eff4@f7a3c",
+      "displayName": "",
+      "id": "f7a3c",
+      "name": "fence_simpleLow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f441e32c-54c5-41cc-aa04-3f010e28eff4@6d694"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f441e32c-54c5-41cc-aa04-3f010e28eff4@e4014"
+      ],
+      "scenes": [
+        "f441e32c-54c5-41cc-aa04-3f010e28eff4@f7a3c"
+      ]
+    }
+  }
+}

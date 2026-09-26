@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "ed684f81-146b-491e-83c3-f897ab661c13",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "ed684f81-146b-491e-83c3-f897ab661c13@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8a10e": {
+      "importer": "gltf-mesh",
+      "uuid": "ed684f81-146b-491e-83c3-f897ab661c13@8a10e",
+      "displayName": "",
+      "id": "8a10e",
+      "name": "crops_cornStageC.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 148
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1300d": {
+      "importer": "gltf-scene",
+      "uuid": "ed684f81-146b-491e-83c3-f897ab661c13@1300d",
+      "displayName": "",
+      "id": "1300d",
+      "name": "crops_cornStageC.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "ed684f81-146b-491e-83c3-f897ab661c13@8a10e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "ed684f81-146b-491e-83c3-f897ab661c13@53398"
+      ],
+      "scenes": [
+        "ed684f81-146b-491e-83c3-f897ab661c13@1300d"
+      ]
+    }
+  }
+}

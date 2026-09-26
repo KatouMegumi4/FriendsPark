@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "09743ed2-343f-481d-8f8d-25041d6cb32c",
+  "files": [],
+  "subMetas": {
+    "cff88": {
+      "importer": "gltf-mesh",
+      "uuid": "09743ed2-343f-481d-8f8d-25041d6cb32c@cff88",
+      "displayName": "",
+      "id": "cff88",
+      "name": "stone_smallD.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "09743ed2-343f-481d-8f8d-25041d6cb32c@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53ef4": {
+      "importer": "gltf-scene",
+      "uuid": "09743ed2-343f-481d-8f8d-25041d6cb32c@53ef4",
+      "displayName": "",
+      "id": "53ef4",
+      "name": "stone_smallD.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "09743ed2-343f-481d-8f8d-25041d6cb32c@cff88"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "09743ed2-343f-481d-8f8d-25041d6cb32c@4de10"
+      ],
+      "scenes": [
+        "09743ed2-343f-481d-8f8d-25041d6cb32c@53ef4"
+      ]
+    }
+  }
+}

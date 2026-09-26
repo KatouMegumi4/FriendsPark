@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "7f5b9157-ff0c-4d22-a578-acf3e425217a",
+  "files": [],
+  "subMetas": {
+    "27f89": {
+      "importer": "gltf-mesh",
+      "uuid": "7f5b9157-ff0c-4d22-a578-acf3e425217a@27f89",
+      "displayName": "",
+      "id": "27f89",
+      "name": "Mesh cliff_rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "7f5b9157-ff0c-4d22-a578-acf3e425217a@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ba476": {
+      "importer": "gltf-scene",
+      "uuid": "7f5b9157-ff0c-4d22-a578-acf3e425217a@ba476",
+      "displayName": "",
+      "id": "ba476",
+      "name": "cliff_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "7f5b9157-ff0c-4d22-a578-acf3e425217a@27f89"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7f5b9157-ff0c-4d22-a578-acf3e425217a@3577b"
+      ],
+      "scenes": [
+        "7f5b9157-ff0c-4d22-a578-acf3e425217a@ba476"
+      ]
+    }
+  }
+}

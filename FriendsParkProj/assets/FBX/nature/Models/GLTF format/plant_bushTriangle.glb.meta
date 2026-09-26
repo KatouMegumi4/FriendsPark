@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "d037c992-e0f7-42df-ab60-adc4021c7f3e",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "d037c992-e0f7-42df-ab60-adc4021c7f3e@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "07d2a": {
+      "importer": "gltf-mesh",
+      "uuid": "d037c992-e0f7-42df-ab60-adc4021c7f3e@07d2a",
+      "displayName": "",
+      "id": "07d2a",
+      "name": "Mesh plant_bushTriangle.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 30
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6c8cc": {
+      "importer": "gltf-scene",
+      "uuid": "d037c992-e0f7-42df-ab60-adc4021c7f3e@6c8cc",
+      "displayName": "",
+      "id": "6c8cc",
+      "name": "plant_bushTriangle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "d037c992-e0f7-42df-ab60-adc4021c7f3e@07d2a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d037c992-e0f7-42df-ab60-adc4021c7f3e@53398"
+      ],
+      "scenes": [
+        "d037c992-e0f7-42df-ab60-adc4021c7f3e@6c8cc"
+      ]
+    }
+  }
+}

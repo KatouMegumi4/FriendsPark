@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1f3037ad-f53d-4e4e-bb42-b50d833d17c1",
+  "files": [],
+  "subMetas": {
+    "fb68a": {
+      "importer": "gltf-mesh",
+      "uuid": "1f3037ad-f53d-4e4e-bb42-b50d833d17c1@fb68a",
+      "displayName": "",
+      "id": "fb68a",
+      "name": "cliff_cornerInner_rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 56
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "1f3037ad-f53d-4e4e-bb42-b50d833d17c1@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "267d4": {
+      "importer": "gltf-scene",
+      "uuid": "1f3037ad-f53d-4e4e-bb42-b50d833d17c1@267d4",
+      "displayName": "",
+      "id": "267d4",
+      "name": "cliff_cornerInner_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "1f3037ad-f53d-4e4e-bb42-b50d833d17c1@fb68a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "1f3037ad-f53d-4e4e-bb42-b50d833d17c1@3577b"
+      ],
+      "scenes": [
+        "1f3037ad-f53d-4e4e-bb42-b50d833d17c1@267d4"
+      ]
+    }
+  }
+}

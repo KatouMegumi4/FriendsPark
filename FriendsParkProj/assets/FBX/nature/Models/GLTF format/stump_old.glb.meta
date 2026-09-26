@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "4770395c-fd95-4873-b941-f672eeb9b70e",
+  "files": [],
+  "subMetas": {
+    "79a86": {
+      "importer": "gltf-mesh",
+      "uuid": "4770395c-fd95-4873-b941-f672eeb9b70e@79a86",
+      "displayName": "",
+      "id": "79a86",
+      "name": "Mesh stump_old.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 120
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11bfd": {
+      "importer": "gltf-material",
+      "uuid": "4770395c-fd95-4873-b941-f672eeb9b70e@11bfd",
+      "displayName": "",
+      "id": "11bfd",
+      "name": "woodBark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9311": {
+      "importer": "gltf-scene",
+      "uuid": "4770395c-fd95-4873-b941-f672eeb9b70e@d9311",
+      "displayName": "",
+      "id": "d9311",
+      "name": "stump_old.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "4770395c-fd95-4873-b941-f672eeb9b70e@79a86"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4770395c-fd95-4873-b941-f672eeb9b70e@11bfd"
+      ],
+      "scenes": [
+        "4770395c-fd95-4873-b941-f672eeb9b70e@d9311"
+      ]
+    }
+  }
+}

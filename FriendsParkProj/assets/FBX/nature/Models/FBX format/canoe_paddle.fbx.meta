@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "4167b5a8-8d8f-453d-83be-0cdcce6764cc",
+  "files": [],
+  "subMetas": {
+    "63a4e": {
+      "importer": "gltf-mesh",
+      "uuid": "4167b5a8-8d8f-453d-83be-0cdcce6764cc@63a4e",
+      "displayName": "",
+      "id": "63a4e",
+      "name": "canoe_paddle.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "4167b5a8-8d8f-453d-83be-0cdcce6764cc@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "be05c": {
+      "importer": "gltf-scene",
+      "uuid": "4167b5a8-8d8f-453d-83be-0cdcce6764cc@be05c",
+      "displayName": "",
+      "id": "be05c",
+      "name": "canoe_paddle.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "4167b5a8-8d8f-453d-83be-0cdcce6764cc@63a4e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "4167b5a8-8d8f-453d-83be-0cdcce6764cc@e4014"
+      ],
+      "scenes": [
+        "4167b5a8-8d8f-453d-83be-0cdcce6764cc@be05c"
+      ]
+    }
+  }
+}

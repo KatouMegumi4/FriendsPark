@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "2565fcec-21a5-414c-917b-59e2aae26a68",
+  "files": [],
+  "subMetas": {
+    "b69be": {
+      "importer": "gltf-mesh",
+      "uuid": "2565fcec-21a5-414c-917b-59e2aae26a68@b69be",
+      "displayName": "",
+      "id": "b69be",
+      "name": "stone_smallH.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 60
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "2565fcec-21a5-414c-917b-59e2aae26a68@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7b25": {
+      "importer": "gltf-scene",
+      "uuid": "2565fcec-21a5-414c-917b-59e2aae26a68@a7b25",
+      "displayName": "",
+      "id": "a7b25",
+      "name": "stone_smallH.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "2565fcec-21a5-414c-917b-59e2aae26a68@b69be"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "2565fcec-21a5-414c-917b-59e2aae26a68@4de10"
+      ],
+      "scenes": [
+        "2565fcec-21a5-414c-917b-59e2aae26a68@a7b25"
+      ]
+    }
+  }
+}

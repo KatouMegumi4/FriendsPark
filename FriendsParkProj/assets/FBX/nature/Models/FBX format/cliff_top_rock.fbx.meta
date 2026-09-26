@@ -1,0 +1,113 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "f8841eaf-f2e9-494d-9702-50ecf2630aba",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "f8841eaf-f2e9-494d-9702-50ecf2630aba@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c9aaa": {
+      "importer": "gltf-mesh",
+      "uuid": "f8841eaf-f2e9-494d-9702-50ecf2630aba@c9aaa",
+      "displayName": "",
+      "id": "c9aaa",
+      "name": "cliff_top_rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 53
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "f8841eaf-f2e9-494d-9702-50ecf2630aba@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ab5db": {
+      "importer": "gltf-scene",
+      "uuid": "f8841eaf-f2e9-494d-9702-50ecf2630aba@ab5db",
+      "displayName": "",
+      "id": "ab5db",
+      "name": "cliff_top_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "f8841eaf-f2e9-494d-9702-50ecf2630aba@c9aaa"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "f8841eaf-f2e9-494d-9702-50ecf2630aba@53398",
+        "f8841eaf-f2e9-494d-9702-50ecf2630aba@3577b"
+      ],
+      "scenes": [
+        "f8841eaf-f2e9-494d-9702-50ecf2630aba@ab5db"
+      ]
+    }
+  }
+}

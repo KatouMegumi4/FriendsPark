@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "c0074628-62a2-427f-a30a-2f3598bd2f0a",
+  "files": [],
+  "subMetas": {
+    "fcb0f": {
+      "importer": "gltf-mesh",
+      "uuid": "c0074628-62a2-427f-a30a-2f3598bd2f0a@fcb0f",
+      "displayName": "",
+      "id": "fcb0f",
+      "name": "Mesh stone_smallFlatB.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 16
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "c0074628-62a2-427f-a30a-2f3598bd2f0a@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "74bea": {
+      "importer": "gltf-scene",
+      "uuid": "c0074628-62a2-427f-a30a-2f3598bd2f0a@74bea",
+      "displayName": "",
+      "id": "74bea",
+      "name": "stone_smallFlatB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "c0074628-62a2-427f-a30a-2f3598bd2f0a@fcb0f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "c0074628-62a2-427f-a30a-2f3598bd2f0a@4de10"
+      ],
+      "scenes": [
+        "c0074628-62a2-427f-a30a-2f3598bd2f0a@74bea"
+      ]
+    }
+  }
+}

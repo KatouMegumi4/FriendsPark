@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "10ead88b-c386-4152-ae4c-ef60aad60cdf",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "10ead88b-c386-4152-ae4c-ef60aad60cdf@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "171c0": {
+      "importer": "gltf-mesh",
+      "uuid": "10ead88b-c386-4152-ae4c-ef60aad60cdf@171c0",
+      "displayName": "",
+      "id": "171c0",
+      "name": "Mesh plant_bushSmall.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 16
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "15b83": {
+      "importer": "gltf-scene",
+      "uuid": "10ead88b-c386-4152-ae4c-ef60aad60cdf@15b83",
+      "displayName": "",
+      "id": "15b83",
+      "name": "plant_bushSmall.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "10ead88b-c386-4152-ae4c-ef60aad60cdf@171c0"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "10ead88b-c386-4152-ae4c-ef60aad60cdf@53398"
+      ],
+      "scenes": [
+        "10ead88b-c386-4152-ae4c-ef60aad60cdf@15b83"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "84f0c774-762d-4037-a6f7-0b2a678b9d32",
+  "files": [],
+  "subMetas": {
+    "47bb6": {
+      "importer": "gltf-mesh",
+      "uuid": "84f0c774-762d-4037-a6f7-0b2a678b9d32@47bb6",
+      "displayName": "",
+      "id": "47bb6",
+      "name": "fence_planks.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 96
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "84f0c774-762d-4037-a6f7-0b2a678b9d32@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0569": {
+      "importer": "gltf-scene",
+      "uuid": "84f0c774-762d-4037-a6f7-0b2a678b9d32@c0569",
+      "displayName": "",
+      "id": "c0569",
+      "name": "fence_planks.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "84f0c774-762d-4037-a6f7-0b2a678b9d32@47bb6"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "84f0c774-762d-4037-a6f7-0b2a678b9d32@e4014"
+      ],
+      "scenes": [
+        "84f0c774-762d-4037-a6f7-0b2a678b9d32@c0569"
+      ]
+    }
+  }
+}

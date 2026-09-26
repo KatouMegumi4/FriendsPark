@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "b5a962a3-265c-4561-9fa9-42f4bc5d0454",
+  "files": [],
+  "subMetas": {
+    "bbbcf": {
+      "importer": "gltf-mesh",
+      "uuid": "b5a962a3-265c-4561-9fa9-42f4bc5d0454@bbbcf",
+      "displayName": "",
+      "id": "bbbcf",
+      "name": "Mesh tree_pineGroundB.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 82
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4d07d": {
+      "importer": "gltf-material",
+      "uuid": "b5a962a3-265c-4561-9fa9-42f4bc5d0454@4d07d",
+      "displayName": "",
+      "id": "4d07d",
+      "name": "leafsDark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e7e44": {
+      "importer": "gltf-scene",
+      "uuid": "b5a962a3-265c-4561-9fa9-42f4bc5d0454@e7e44",
+      "displayName": "",
+      "id": "e7e44",
+      "name": "tree_pineGroundB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "b5a962a3-265c-4561-9fa9-42f4bc5d0454@bbbcf"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "b5a962a3-265c-4561-9fa9-42f4bc5d0454@4d07d"
+      ],
+      "scenes": [
+        "b5a962a3-265c-4561-9fa9-42f4bc5d0454@e7e44"
+      ]
+    }
+  }
+}

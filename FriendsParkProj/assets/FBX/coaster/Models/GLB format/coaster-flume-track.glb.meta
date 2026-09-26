@@ -1,0 +1,123 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "d1ae10df-e8fd-4178-a866-06ead194017a",
+  "files": [],
+  "subMetas": {
+    "5b6b2": {
+      "importer": "gltf-mesh",
+      "uuid": "d1ae10df-e8fd-4178-a866-06ead194017a@5b6b2",
+      "displayName": "",
+      "id": "5b6b2",
+      "name": "coaster-flume-track.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 48
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "96c50": {
+      "importer": "texture",
+      "uuid": "d1ae10df-e8fd-4178-a866-06ead194017a@96c50",
+      "displayName": "",
+      "id": "96c50",
+      "name": "colormap.texture",
+      "userData": {
+        "wrapModeS": "repeat",
+        "wrapModeT": "repeat",
+        "minfilter": "nearest",
+        "magfilter": "nearest",
+        "mipfilter": "nearest",
+        "anisotropy": 0,
+        "isUuid": false,
+        "imageUuidOrDatabaseUri": "db://assets/FBX/coaster/Models/GLB format/Textures/colormap.png"
+      },
+      "ver": "1.0.22",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9991c": {
+      "importer": "gltf-material",
+      "uuid": "d1ae10df-e8fd-4178-a866-06ead194017a@9991c",
+      "displayName": "",
+      "id": "9991c",
+      "name": "colormap.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "968c5": {
+      "importer": "gltf-scene",
+      "uuid": "d1ae10df-e8fd-4178-a866-06ead194017a@968c5",
+      "displayName": "",
+      "id": "968c5",
+      "name": "coaster-flume-track.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [
+      {
+        "name": "colormap",
+        "uri": "db://assets/FBX/coaster/Models/GLB format/Textures/colormap.png"
+      }
+    ],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "d1ae10df-e8fd-4178-a866-06ead194017a@5b6b2"
+      ],
+      "skeletons": [],
+      "textures": [
+        "d1ae10df-e8fd-4178-a866-06ead194017a@96c50"
+      ],
+      "materials": [
+        "d1ae10df-e8fd-4178-a866-06ead194017a@9991c"
+      ],
+      "scenes": [
+        "d1ae10df-e8fd-4178-a866-06ead194017a@968c5"
+      ]
+    }
+  }
+}

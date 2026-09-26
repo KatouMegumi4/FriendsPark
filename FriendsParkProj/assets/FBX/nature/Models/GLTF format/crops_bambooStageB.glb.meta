@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "82b9198d-3c01-4ba2-b861-0c5f76ac83a8",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "82b9198d-3c01-4ba2-b861-0c5f76ac83a8@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "75128": {
+      "importer": "gltf-scene",
+      "uuid": "82b9198d-3c01-4ba2-b861-0c5f76ac83a8@75128",
+      "displayName": "",
+      "id": "75128",
+      "name": "crops_bambooStageB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e603e": {
+      "importer": "gltf-mesh",
+      "uuid": "82b9198d-3c01-4ba2-b861-0c5f76ac83a8@e603e",
+      "displayName": "",
+      "id": "e603e",
+      "name": "Mesh crops_bambooStageB.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 564
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "82b9198d-3c01-4ba2-b861-0c5f76ac83a8@e603e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "82b9198d-3c01-4ba2-b861-0c5f76ac83a8@53398"
+      ],
+      "scenes": [
+        "82b9198d-3c01-4ba2-b861-0c5f76ac83a8@75128"
+      ]
+    }
+  }
+}

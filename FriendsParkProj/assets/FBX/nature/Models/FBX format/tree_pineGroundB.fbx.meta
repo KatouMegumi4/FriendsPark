@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1898736b-716a-4d1b-abf7-27d2286be069",
+  "files": [],
+  "subMetas": {
+    "46ca4": {
+      "importer": "gltf-mesh",
+      "uuid": "1898736b-716a-4d1b-abf7-27d2286be069@46ca4",
+      "displayName": "",
+      "id": "46ca4",
+      "name": "tree_pineGroundB.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 82
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4d07d": {
+      "importer": "gltf-material",
+      "uuid": "1898736b-716a-4d1b-abf7-27d2286be069@4d07d",
+      "displayName": "",
+      "id": "4d07d",
+      "name": "leafsDark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e7e44": {
+      "importer": "gltf-scene",
+      "uuid": "1898736b-716a-4d1b-abf7-27d2286be069@e7e44",
+      "displayName": "",
+      "id": "e7e44",
+      "name": "tree_pineGroundB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "1898736b-716a-4d1b-abf7-27d2286be069@46ca4"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "1898736b-716a-4d1b-abf7-27d2286be069@4d07d"
+      ],
+      "scenes": [
+        "1898736b-716a-4d1b-abf7-27d2286be069@e7e44"
+      ]
+    }
+  }
+}

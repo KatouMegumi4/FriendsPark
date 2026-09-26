@@ -1,0 +1,130 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "56b09156-3cdd-4884-af5a-aaf5de906b59",
+  "files": [],
+  "subMetas": {
+    "69ccf": {
+      "importer": "gltf-mesh",
+      "uuid": "56b09156-3cdd-4884-af5a-aaf5de906b59@69ccf",
+      "displayName": "",
+      "id": "69ccf",
+      "name": "bridge_wood.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 220
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11bfd": {
+      "importer": "gltf-material",
+      "uuid": "56b09156-3cdd-4884-af5a-aaf5de906b59@11bfd",
+      "displayName": "",
+      "id": "11bfd",
+      "name": "woodBark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "56b09156-3cdd-4884-af5a-aaf5de906b59@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "56b09156-3cdd-4884-af5a-aaf5de906b59@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d53df": {
+      "importer": "gltf-scene",
+      "uuid": "56b09156-3cdd-4884-af5a-aaf5de906b59@d53df",
+      "displayName": "",
+      "id": "d53df",
+      "name": "bridge_wood.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "56b09156-3cdd-4884-af5a-aaf5de906b59@69ccf"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "56b09156-3cdd-4884-af5a-aaf5de906b59@11bfd",
+        "56b09156-3cdd-4884-af5a-aaf5de906b59@e4014",
+        "56b09156-3cdd-4884-af5a-aaf5de906b59@4de10"
+      ],
+      "scenes": [
+        "56b09156-3cdd-4884-af5a-aaf5de906b59@d53df"
+      ]
+    }
+  }
+}

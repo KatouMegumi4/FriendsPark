@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "690b3865-1fbd-4753-8e1e-fd1dfd90a2c4",
+  "files": [],
+  "subMetas": {
+    "2561c": {
+      "importer": "gltf-mesh",
+      "uuid": "690b3865-1fbd-4753-8e1e-fd1dfd90a2c4@2561c",
+      "displayName": "",
+      "id": "2561c",
+      "name": "plant_flatTall.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af578": {
+      "importer": "gltf-material",
+      "uuid": "690b3865-1fbd-4753-8e1e-fd1dfd90a2c4@af578",
+      "displayName": "",
+      "id": "af578",
+      "name": "leafsGreen.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "6acbd": {
+      "importer": "gltf-scene",
+      "uuid": "690b3865-1fbd-4753-8e1e-fd1dfd90a2c4@6acbd",
+      "displayName": "",
+      "id": "6acbd",
+      "name": "plant_flatTall.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "690b3865-1fbd-4753-8e1e-fd1dfd90a2c4@2561c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "690b3865-1fbd-4753-8e1e-fd1dfd90a2c4@af578"
+      ],
+      "scenes": [
+        "690b3865-1fbd-4753-8e1e-fd1dfd90a2c4@6acbd"
+      ]
+    }
+  }
+}

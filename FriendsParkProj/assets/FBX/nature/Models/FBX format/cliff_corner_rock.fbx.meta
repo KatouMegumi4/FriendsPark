@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "3573c01a-be6f-471d-a067-751e17bbd696",
+  "files": [],
+  "subMetas": {
+    "88356": {
+      "importer": "gltf-mesh",
+      "uuid": "3573c01a-be6f-471d-a067-751e17bbd696@88356",
+      "displayName": "",
+      "id": "88356",
+      "name": "cliff_corner_rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "3573c01a-be6f-471d-a067-751e17bbd696@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "581d3": {
+      "importer": "gltf-scene",
+      "uuid": "3573c01a-be6f-471d-a067-751e17bbd696@581d3",
+      "displayName": "",
+      "id": "581d3",
+      "name": "cliff_corner_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "3573c01a-be6f-471d-a067-751e17bbd696@88356"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "3573c01a-be6f-471d-a067-751e17bbd696@3577b"
+      ],
+      "scenes": [
+        "3573c01a-be6f-471d-a067-751e17bbd696@581d3"
+      ]
+    }
+  }
+}

@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "5fe4a7b8-07bd-43b4-bcbd-fcc11d1449f4",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "5fe4a7b8-07bd-43b4-bcbd-fcc11d1449f4@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "70202": {
+      "importer": "gltf-material",
+      "uuid": "5fe4a7b8-07bd-43b4-bcbd-fcc11d1449f4@70202",
+      "displayName": "",
+      "id": "70202",
+      "name": "colorWhite.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ef68e": {
+      "importer": "gltf-mesh",
+      "uuid": "5fe4a7b8-07bd-43b4-bcbd-fcc11d1449f4@ef68e",
+      "displayName": "",
+      "id": "ef68e",
+      "name": "Mesh flower_purpleC.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 78
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0e7c7": {
+      "importer": "gltf-material",
+      "uuid": "5fe4a7b8-07bd-43b4-bcbd-fcc11d1449f4@0e7c7",
+      "displayName": "",
+      "id": "0e7c7",
+      "name": "colorPurple.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e683": {
+      "importer": "gltf-scene",
+      "uuid": "5fe4a7b8-07bd-43b4-bcbd-fcc11d1449f4@8e683",
+      "displayName": "",
+      "id": "8e683",
+      "name": "flower_purpleC.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "5fe4a7b8-07bd-43b4-bcbd-fcc11d1449f4@ef68e"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "5fe4a7b8-07bd-43b4-bcbd-fcc11d1449f4@53398",
+        "5fe4a7b8-07bd-43b4-bcbd-fcc11d1449f4@0e7c7",
+        "5fe4a7b8-07bd-43b4-bcbd-fcc11d1449f4@70202"
+      ],
+      "scenes": [
+        "5fe4a7b8-07bd-43b4-bcbd-fcc11d1449f4@8e683"
+      ]
+    }
+  }
+}

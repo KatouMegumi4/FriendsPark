@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "203eaca4-c490-4186-93d8-43bad8738384",
+  "files": [],
+  "subMetas": {
+    "01eeb": {
+      "importer": "gltf-mesh",
+      "uuid": "203eaca4-c490-4186-93d8-43bad8738384@01eeb",
+      "displayName": "",
+      "id": "01eeb",
+      "name": "Mesh cliff_cornerInnerLarge_rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "203eaca4-c490-4186-93d8-43bad8738384@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9385c": {
+      "importer": "gltf-scene",
+      "uuid": "203eaca4-c490-4186-93d8-43bad8738384@9385c",
+      "displayName": "",
+      "id": "9385c",
+      "name": "cliff_cornerInnerLarge_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "203eaca4-c490-4186-93d8-43bad8738384@01eeb"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "203eaca4-c490-4186-93d8-43bad8738384@3577b"
+      ],
+      "scenes": [
+        "203eaca4-c490-4186-93d8-43bad8738384@9385c"
+      ]
+    }
+  }
+}

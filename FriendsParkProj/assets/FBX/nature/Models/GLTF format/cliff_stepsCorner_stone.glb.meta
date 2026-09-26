@@ -1,0 +1,110 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "7ebfd7ed-89d7-4452-a571-c10d701343c8",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "7ebfd7ed-89d7-4452-a571-c10d701343c8@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "24d72": {
+      "importer": "gltf-mesh",
+      "uuid": "7ebfd7ed-89d7-4452-a571-c10d701343c8@24d72",
+      "displayName": "",
+      "id": "24d72",
+      "name": "Mesh cliff_stepsCorner_stone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 245
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "7ebfd7ed-89d7-4452-a571-c10d701343c8@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af17c": {
+      "importer": "gltf-scene",
+      "uuid": "7ebfd7ed-89d7-4452-a571-c10d701343c8@af17c",
+      "displayName": "",
+      "id": "af17c",
+      "name": "cliff_stepsCorner_stone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "7ebfd7ed-89d7-4452-a571-c10d701343c8@24d72"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "7ebfd7ed-89d7-4452-a571-c10d701343c8@4de10",
+        "7ebfd7ed-89d7-4452-a571-c10d701343c8@53398"
+      ],
+      "scenes": [
+        "7ebfd7ed-89d7-4452-a571-c10d701343c8@af17c"
+      ]
+    }
+  }
+}

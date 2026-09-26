@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "fb1105bc-2a6f-4b71-90e0-11899063532e",
+  "files": [],
+  "subMetas": {
+    "8c61c": {
+      "importer": "gltf-mesh",
+      "uuid": "fb1105bc-2a6f-4b71-90e0-11899063532e@8c61c",
+      "displayName": "",
+      "id": "8c61c",
+      "name": "stump_old.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 120
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11bfd": {
+      "importer": "gltf-material",
+      "uuid": "fb1105bc-2a6f-4b71-90e0-11899063532e@11bfd",
+      "displayName": "",
+      "id": "11bfd",
+      "name": "woodBark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d9311": {
+      "importer": "gltf-scene",
+      "uuid": "fb1105bc-2a6f-4b71-90e0-11899063532e@d9311",
+      "displayName": "",
+      "id": "d9311",
+      "name": "stump_old.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "fb1105bc-2a6f-4b71-90e0-11899063532e@8c61c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "fb1105bc-2a6f-4b71-90e0-11899063532e@11bfd"
+      ],
+      "scenes": [
+        "fb1105bc-2a6f-4b71-90e0-11899063532e@d9311"
+      ]
+    }
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "a734dd38-77ac-4ec0-a11c-41beead026f9",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "a734dd38-77ac-4ec0-a11c-41beead026f9@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a7e93": {
+      "importer": "gltf-mesh",
+      "uuid": "a734dd38-77ac-4ec0-a11c-41beead026f9@a7e93",
+      "displayName": "",
+      "id": "a7e93",
+      "name": "ground_riverCorner.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 40
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fc265": {
+      "importer": "gltf-material",
+      "uuid": "a734dd38-77ac-4ec0-a11c-41beead026f9@fc265",
+      "displayName": "",
+      "id": "fc265",
+      "name": "dirtDark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "a734dd38-77ac-4ec0-a11c-41beead026f9@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0086d": {
+      "importer": "gltf-material",
+      "uuid": "a734dd38-77ac-4ec0-a11c-41beead026f9@0086d",
+      "displayName": "",
+      "id": "0086d",
+      "name": "water.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4a301": {
+      "importer": "gltf-scene",
+      "uuid": "a734dd38-77ac-4ec0-a11c-41beead026f9@4a301",
+      "displayName": "",
+      "id": "4a301",
+      "name": "ground_riverCorner.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a734dd38-77ac-4ec0-a11c-41beead026f9@a7e93"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "a734dd38-77ac-4ec0-a11c-41beead026f9@fc265",
+        "a734dd38-77ac-4ec0-a11c-41beead026f9@3577b",
+        "a734dd38-77ac-4ec0-a11c-41beead026f9@53398",
+        "a734dd38-77ac-4ec0-a11c-41beead026f9@0086d"
+      ],
+      "scenes": [
+        "a734dd38-77ac-4ec0-a11c-41beead026f9@4a301"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "47590680-fc65-44da-9d5e-28deaa82c45c",
+  "files": [],
+  "subMetas": {
+    "84cdc": {
+      "importer": "gltf-mesh",
+      "uuid": "47590680-fc65-44da-9d5e-28deaa82c45c@84cdc",
+      "displayName": "",
+      "id": "84cdc",
+      "name": "Mesh fence_planks.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 96
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "47590680-fc65-44da-9d5e-28deaa82c45c@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c0569": {
+      "importer": "gltf-scene",
+      "uuid": "47590680-fc65-44da-9d5e-28deaa82c45c@c0569",
+      "displayName": "",
+      "id": "c0569",
+      "name": "fence_planks.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "47590680-fc65-44da-9d5e-28deaa82c45c@84cdc"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "47590680-fc65-44da-9d5e-28deaa82c45c@e4014"
+      ],
+      "scenes": [
+        "47590680-fc65-44da-9d5e-28deaa82c45c@c0569"
+      ]
+    }
+  }
+}

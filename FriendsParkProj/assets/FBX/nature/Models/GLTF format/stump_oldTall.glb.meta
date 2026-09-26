@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "6db73f65-054a-45d3-b249-55a304647e5b",
+  "files": [],
+  "subMetas": {
+    "65829": {
+      "importer": "gltf-scene",
+      "uuid": "6db73f65-054a-45d3-b249-55a304647e5b@65829",
+      "displayName": "",
+      "id": "65829",
+      "name": "stump_oldTall.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ff75a": {
+      "importer": "gltf-mesh",
+      "uuid": "6db73f65-054a-45d3-b249-55a304647e5b@ff75a",
+      "displayName": "",
+      "id": "ff75a",
+      "name": "Mesh stump_oldTall.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 120
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11bfd": {
+      "importer": "gltf-material",
+      "uuid": "6db73f65-054a-45d3-b249-55a304647e5b@11bfd",
+      "displayName": "",
+      "id": "11bfd",
+      "name": "woodBark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "6db73f65-054a-45d3-b249-55a304647e5b@ff75a"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "6db73f65-054a-45d3-b249-55a304647e5b@11bfd"
+      ],
+      "scenes": [
+        "6db73f65-054a-45d3-b249-55a304647e5b@65829"
+      ]
+    }
+  }
+}

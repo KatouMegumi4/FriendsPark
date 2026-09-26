@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "361af849-f36b-4717-adea-8124f6548e90",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "361af849-f36b-4717-adea-8124f6548e90@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3de9b": {
+      "importer": "gltf-mesh",
+      "uuid": "361af849-f36b-4717-adea-8124f6548e90@3de9b",
+      "displayName": "",
+      "id": "3de9b",
+      "name": "ground_grass.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 2
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2657a": {
+      "importer": "gltf-scene",
+      "uuid": "361af849-f36b-4717-adea-8124f6548e90@2657a",
+      "displayName": "",
+      "id": "2657a",
+      "name": "ground_grass.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "361af849-f36b-4717-adea-8124f6548e90@3de9b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "361af849-f36b-4717-adea-8124f6548e90@53398"
+      ],
+      "scenes": [
+        "361af849-f36b-4717-adea-8124f6548e90@2657a"
+      ]
+    }
+  }
+}

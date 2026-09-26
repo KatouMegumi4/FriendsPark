@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "d2c8f09a-e915-4da8-b9d4-0a2b623aaa94",
+  "files": [],
+  "subMetas": {
+    "80e20": {
+      "importer": "gltf-mesh",
+      "uuid": "d2c8f09a-e915-4da8-b9d4-0a2b623aaa94@80e20",
+      "displayName": "",
+      "id": "80e20",
+      "name": "Mesh stone_smallFlatA.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 20
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "d2c8f09a-e915-4da8-b9d4-0a2b623aaa94@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "857e6": {
+      "importer": "gltf-scene",
+      "uuid": "d2c8f09a-e915-4da8-b9d4-0a2b623aaa94@857e6",
+      "displayName": "",
+      "id": "857e6",
+      "name": "stone_smallFlatA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "d2c8f09a-e915-4da8-b9d4-0a2b623aaa94@80e20"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "d2c8f09a-e915-4da8-b9d4-0a2b623aaa94@4de10"
+      ],
+      "scenes": [
+        "d2c8f09a-e915-4da8-b9d4-0a2b623aaa94@857e6"
+      ]
+    }
+  }
+}

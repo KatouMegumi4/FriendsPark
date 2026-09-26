@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "0a4a6892-7da4-4ebf-998a-ecbe02d6af3c",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "0a4a6892-7da4-4ebf-998a-ecbe02d6af3c@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8e55f": {
+      "importer": "gltf-mesh",
+      "uuid": "0a4a6892-7da4-4ebf-998a-ecbe02d6af3c@8e55f",
+      "displayName": "",
+      "id": "8e55f",
+      "name": "plant_bush.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "74cc1": {
+      "importer": "gltf-scene",
+      "uuid": "0a4a6892-7da4-4ebf-998a-ecbe02d6af3c@74cc1",
+      "displayName": "",
+      "id": "74cc1",
+      "name": "plant_bush.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "0a4a6892-7da4-4ebf-998a-ecbe02d6af3c@8e55f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0a4a6892-7da4-4ebf-998a-ecbe02d6af3c@53398"
+      ],
+      "scenes": [
+        "0a4a6892-7da4-4ebf-998a-ecbe02d6af3c@74cc1"
+      ]
+    }
+  }
+}

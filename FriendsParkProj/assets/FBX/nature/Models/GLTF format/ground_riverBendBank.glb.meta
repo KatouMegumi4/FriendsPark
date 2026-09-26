@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "73207b58-a06f-400e-a911-becacf788abc",
+  "files": [],
+  "subMetas": {
+    "27717": {
+      "importer": "gltf-mesh",
+      "uuid": "73207b58-a06f-400e-a911-becacf788abc@27717",
+      "displayName": "",
+      "id": "27717",
+      "name": "Mesh ground_riverBendBank.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 54
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "73207b58-a06f-400e-a911-becacf788abc@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "fc265": {
+      "importer": "gltf-material",
+      "uuid": "73207b58-a06f-400e-a911-becacf788abc@fc265",
+      "displayName": "",
+      "id": "fc265",
+      "name": "dirtDark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "73207b58-a06f-400e-a911-becacf788abc@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0086d": {
+      "importer": "gltf-material",
+      "uuid": "73207b58-a06f-400e-a911-becacf788abc@0086d",
+      "displayName": "",
+      "id": "0086d",
+      "name": "water.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "9f62d": {
+      "importer": "gltf-scene",
+      "uuid": "73207b58-a06f-400e-a911-becacf788abc@9f62d",
+      "displayName": "",
+      "id": "9f62d",
+      "name": "ground_riverBendBank.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "73207b58-a06f-400e-a911-becacf788abc@27717"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "73207b58-a06f-400e-a911-becacf788abc@fc265",
+        "73207b58-a06f-400e-a911-becacf788abc@3577b",
+        "73207b58-a06f-400e-a911-becacf788abc@53398",
+        "73207b58-a06f-400e-a911-becacf788abc@0086d"
+      ],
+      "scenes": [
+        "73207b58-a06f-400e-a911-becacf788abc@9f62d"
+      ]
+    }
+  }
+}

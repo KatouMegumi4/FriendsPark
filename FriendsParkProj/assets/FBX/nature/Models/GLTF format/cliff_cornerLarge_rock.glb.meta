@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "114f0308-33ab-479b-91a1-8e4d3fa7ddbe",
+  "files": [],
+  "subMetas": {
+    "0e471": {
+      "importer": "gltf-mesh",
+      "uuid": "114f0308-33ab-479b-91a1-8e4d3fa7ddbe@0e471",
+      "displayName": "",
+      "id": "0e471",
+      "name": "Mesh cliff_cornerLarge_rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 12
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "114f0308-33ab-479b-91a1-8e4d3fa7ddbe@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f372": {
+      "importer": "gltf-scene",
+      "uuid": "114f0308-33ab-479b-91a1-8e4d3fa7ddbe@8f372",
+      "displayName": "",
+      "id": "8f372",
+      "name": "cliff_cornerLarge_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "114f0308-33ab-479b-91a1-8e4d3fa7ddbe@0e471"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "114f0308-33ab-479b-91a1-8e4d3fa7ddbe@3577b"
+      ],
+      "scenes": [
+        "114f0308-33ab-479b-91a1-8e4d3fa7ddbe@8f372"
+      ]
+    }
+  }
+}

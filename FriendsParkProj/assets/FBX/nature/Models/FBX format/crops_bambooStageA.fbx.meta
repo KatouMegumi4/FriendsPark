@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "9218514f-7e6d-4e5c-93b0-05ab1e5a8408",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "9218514f-7e6d-4e5c-93b0-05ab1e5a8408@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2d845": {
+      "importer": "gltf-mesh",
+      "uuid": "9218514f-7e6d-4e5c-93b0-05ab1e5a8408@2d845",
+      "displayName": "",
+      "id": "2d845",
+      "name": "crops_bambooStageA.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 276
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "163d6": {
+      "importer": "gltf-scene",
+      "uuid": "9218514f-7e6d-4e5c-93b0-05ab1e5a8408@163d6",
+      "displayName": "",
+      "id": "163d6",
+      "name": "crops_bambooStageA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "9218514f-7e6d-4e5c-93b0-05ab1e5a8408@2d845"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "9218514f-7e6d-4e5c-93b0-05ab1e5a8408@53398"
+      ],
+      "scenes": [
+        "9218514f-7e6d-4e5c-93b0-05ab1e5a8408@163d6"
+      ]
+    }
+  }
+}

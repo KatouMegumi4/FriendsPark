@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "33c5d6fe-05f0-4ee4-9210-42cc9b4f88f7",
+  "files": [],
+  "subMetas": {
+    "6d87b": {
+      "importer": "gltf-mesh",
+      "uuid": "33c5d6fe-05f0-4ee4-9210-42cc9b4f88f7@6d87b",
+      "displayName": "",
+      "id": "6d87b",
+      "name": "Mesh tree_pineGroundA.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 82
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4d07d": {
+      "importer": "gltf-material",
+      "uuid": "33c5d6fe-05f0-4ee4-9210-42cc9b4f88f7@4d07d",
+      "displayName": "",
+      "id": "4d07d",
+      "name": "leafsDark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "7ba71": {
+      "importer": "gltf-scene",
+      "uuid": "33c5d6fe-05f0-4ee4-9210-42cc9b4f88f7@7ba71",
+      "displayName": "",
+      "id": "7ba71",
+      "name": "tree_pineGroundA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "33c5d6fe-05f0-4ee4-9210-42cc9b4f88f7@6d87b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "33c5d6fe-05f0-4ee4-9210-42cc9b4f88f7@4d07d"
+      ],
+      "scenes": [
+        "33c5d6fe-05f0-4ee4-9210-42cc9b4f88f7@7ba71"
+      ]
+    }
+  }
+}

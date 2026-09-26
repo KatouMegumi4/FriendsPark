@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "1d100286-0805-4843-8531-ffd6952a2422",
+  "files": [],
+  "subMetas": {
+    "176a9": {
+      "importer": "gltf-mesh",
+      "uuid": "1d100286-0805-4843-8531-ffd6952a2422@176a9",
+      "displayName": "",
+      "id": "176a9",
+      "name": "Mesh cliff_cornerInner_rock.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 56
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3577b": {
+      "importer": "gltf-material",
+      "uuid": "1d100286-0805-4843-8531-ffd6952a2422@3577b",
+      "displayName": "",
+      "id": "3577b",
+      "name": "dirt.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "267d4": {
+      "importer": "gltf-scene",
+      "uuid": "1d100286-0805-4843-8531-ffd6952a2422@267d4",
+      "displayName": "",
+      "id": "267d4",
+      "name": "cliff_cornerInner_rock.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "1d100286-0805-4843-8531-ffd6952a2422@176a9"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "1d100286-0805-4843-8531-ffd6952a2422@3577b"
+      ],
+      "scenes": [
+        "1d100286-0805-4843-8531-ffd6952a2422@267d4"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "b4c1ec36-157a-4433-8de6-a9b8606232b1",
+  "files": [],
+  "subMetas": {
+    "55a2f": {
+      "importer": "gltf-mesh",
+      "uuid": "b4c1ec36-157a-4433-8de6-a9b8606232b1@55a2f",
+      "displayName": "",
+      "id": "55a2f",
+      "name": "Mesh plant_flatShort.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af578": {
+      "importer": "gltf-material",
+      "uuid": "b4c1ec36-157a-4433-8de6-a9b8606232b1@af578",
+      "displayName": "",
+      "id": "af578",
+      "name": "leafsGreen.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "c8151": {
+      "importer": "gltf-scene",
+      "uuid": "b4c1ec36-157a-4433-8de6-a9b8606232b1@c8151",
+      "displayName": "",
+      "id": "c8151",
+      "name": "plant_flatShort.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "b4c1ec36-157a-4433-8de6-a9b8606232b1@55a2f"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "b4c1ec36-157a-4433-8de6-a9b8606232b1@af578"
+      ],
+      "scenes": [
+        "b4c1ec36-157a-4433-8de6-a9b8606232b1@c8151"
+      ]
+    }
+  }
+}

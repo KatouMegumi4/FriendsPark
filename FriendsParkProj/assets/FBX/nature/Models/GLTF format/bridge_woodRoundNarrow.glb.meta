@@ -1,0 +1,144 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10",
+  "files": [],
+  "subMetas": {
+    "d00c1": {
+      "importer": "gltf-mesh",
+      "uuid": "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10@d00c1",
+      "displayName": "",
+      "id": "d00c1",
+      "name": "Mesh bridge_woodRoundNarrow.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 336
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "11bfd": {
+      "importer": "gltf-material",
+      "uuid": "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10@11bfd",
+      "displayName": "",
+      "id": "11bfd",
+      "name": "woodBark.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "e4014": {
+      "importer": "gltf-material",
+      "uuid": "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10@e4014",
+      "displayName": "",
+      "id": "e4014",
+      "name": "wood.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5353c": {
+      "importer": "gltf-material",
+      "uuid": "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10@5353c",
+      "displayName": "",
+      "id": "5353c",
+      "name": "stoneDark.material",
+      "userData": {
+        "gltfIndex": 3
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ba7a7": {
+      "importer": "gltf-scene",
+      "uuid": "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10@ba7a7",
+      "displayName": "",
+      "id": "ba7a7",
+      "name": "bridge_woodRoundNarrow.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10@d00c1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10@11bfd",
+        "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10@4de10",
+        "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10@e4014",
+        "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10@5353c"
+      ],
+      "scenes": [
+        "9f79aa3e-84f0-4aed-a6d5-57c4a480bc10@ba7a7"
+      ]
+    }
+  }
+}

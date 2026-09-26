@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "410b3950-0eda-435c-ba49-f12cc8958576",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "410b3950-0eda-435c-ba49-f12cc8958576@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f6d5c": {
+      "importer": "gltf-mesh",
+      "uuid": "410b3950-0eda-435c-ba49-f12cc8958576@f6d5c",
+      "displayName": "",
+      "id": "f6d5c",
+      "name": "Mesh grass.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 132
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "3022b": {
+      "importer": "gltf-scene",
+      "uuid": "410b3950-0eda-435c-ba49-f12cc8958576@3022b",
+      "displayName": "",
+      "id": "3022b",
+      "name": "grass.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "410b3950-0eda-435c-ba49-f12cc8958576@f6d5c"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "410b3950-0eda-435c-ba49-f12cc8958576@53398"
+      ],
+      "scenes": [
+        "410b3950-0eda-435c-ba49-f12cc8958576@3022b"
+      ]
+    }
+  }
+}

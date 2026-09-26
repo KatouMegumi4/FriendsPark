@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "906e4325-eca9-48a3-96cf-8835279ff085",
+  "files": [],
+  "subMetas": {
+    "c3977": {
+      "importer": "gltf-mesh",
+      "uuid": "906e4325-eca9-48a3-96cf-8835279ff085@c3977",
+      "displayName": "",
+      "id": "c3977",
+      "name": "Mesh ground_riverOpen.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 8
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "0086d": {
+      "importer": "gltf-material",
+      "uuid": "906e4325-eca9-48a3-96cf-8835279ff085@0086d",
+      "displayName": "",
+      "id": "0086d",
+      "name": "water.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1ff41": {
+      "importer": "gltf-scene",
+      "uuid": "906e4325-eca9-48a3-96cf-8835279ff085@1ff41",
+      "displayName": "",
+      "id": "1ff41",
+      "name": "ground_riverOpen.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "906e4325-eca9-48a3-96cf-8835279ff085@c3977"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "906e4325-eca9-48a3-96cf-8835279ff085@0086d"
+      ],
+      "scenes": [
+        "906e4325-eca9-48a3-96cf-8835279ff085@1ff41"
+      ]
+    }
+  }
+}

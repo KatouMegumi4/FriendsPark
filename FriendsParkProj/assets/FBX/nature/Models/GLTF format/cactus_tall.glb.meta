@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "e28f4845-4e3f-4b45-b4fa-622a8c4155a9",
+  "files": [],
+  "subMetas": {
+    "635f9": {
+      "importer": "gltf-mesh",
+      "uuid": "e28f4845-4e3f-4b45-b4fa-622a8c4155a9@635f9",
+      "displayName": "",
+      "id": "635f9",
+      "name": "Mesh cactus_tall.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 122
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "af578": {
+      "importer": "gltf-material",
+      "uuid": "e28f4845-4e3f-4b45-b4fa-622a8c4155a9@af578",
+      "displayName": "",
+      "id": "af578",
+      "name": "leafsGreen.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "595b3": {
+      "importer": "gltf-scene",
+      "uuid": "e28f4845-4e3f-4b45-b4fa-622a8c4155a9@595b3",
+      "displayName": "",
+      "id": "595b3",
+      "name": "cactus_tall.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "e28f4845-4e3f-4b45-b4fa-622a8c4155a9@635f9"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "e28f4845-4e3f-4b45-b4fa-622a8c4155a9@af578"
+      ],
+      "scenes": [
+        "e28f4845-4e3f-4b45-b4fa-622a8c4155a9@595b3"
+      ]
+    }
+  }
+}

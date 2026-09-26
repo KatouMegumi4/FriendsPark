@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "0f3fbb21-2fea-4d95-a09f-05842235c426",
+  "files": [],
+  "subMetas": {
+    "7ec7b": {
+      "importer": "gltf-mesh",
+      "uuid": "0f3fbb21-2fea-4d95-a09f-05842235c426@7ec7b",
+      "displayName": "",
+      "id": "7ec7b",
+      "name": "Mesh stone_smallG.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "0f3fbb21-2fea-4d95-a09f-05842235c426@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "bcc3a": {
+      "importer": "gltf-scene",
+      "uuid": "0f3fbb21-2fea-4d95-a09f-05842235c426@bcc3a",
+      "displayName": "",
+      "id": "bcc3a",
+      "name": "stone_smallG.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "0f3fbb21-2fea-4d95-a09f-05842235c426@7ec7b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "0f3fbb21-2fea-4d95-a09f-05842235c426@4de10"
+      ],
+      "scenes": [
+        "0f3fbb21-2fea-4d95-a09f-05842235c426@bcc3a"
+      ]
+    }
+  }
+}

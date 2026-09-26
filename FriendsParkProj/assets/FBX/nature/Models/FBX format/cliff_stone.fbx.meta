@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "b0b8a0b8-f809-458e-95c8-bd52cb98218d",
+  "files": [],
+  "subMetas": {
+    "d2fa1": {
+      "importer": "gltf-mesh",
+      "uuid": "b0b8a0b8-f809-458e-95c8-bd52cb98218d@d2fa1",
+      "displayName": "",
+      "id": "d2fa1",
+      "name": "cliff_stone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "b0b8a0b8-f809-458e-95c8-bd52cb98218d@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "42c1f": {
+      "importer": "gltf-scene",
+      "uuid": "b0b8a0b8-f809-458e-95c8-bd52cb98218d@42c1f",
+      "displayName": "",
+      "id": "42c1f",
+      "name": "cliff_stone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "b0b8a0b8-f809-458e-95c8-bd52cb98218d@d2fa1"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "b0b8a0b8-f809-458e-95c8-bd52cb98218d@4de10"
+      ],
+      "scenes": [
+        "b0b8a0b8-f809-458e-95c8-bd52cb98218d@42c1f"
+      ]
+    }
+  }
+}

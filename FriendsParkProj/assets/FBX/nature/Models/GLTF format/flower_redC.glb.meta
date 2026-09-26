@@ -1,0 +1,127 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "a26d6a6e-225e-40aa-90ad-1f16e68ab541",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "a26d6a6e-225e-40aa-90ad-1f16e68ab541@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "70202": {
+      "importer": "gltf-material",
+      "uuid": "a26d6a6e-225e-40aa-90ad-1f16e68ab541@70202",
+      "displayName": "",
+      "id": "70202",
+      "name": "colorWhite.material",
+      "userData": {
+        "gltfIndex": 2
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5a177": {
+      "importer": "gltf-mesh",
+      "uuid": "a26d6a6e-225e-40aa-90ad-1f16e68ab541@5a177",
+      "displayName": "",
+      "id": "5a177",
+      "name": "Mesh flower_redC.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 78
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "03d24": {
+      "importer": "gltf-material",
+      "uuid": "a26d6a6e-225e-40aa-90ad-1f16e68ab541@03d24",
+      "displayName": "",
+      "id": "03d24",
+      "name": "colorRed.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "16dba": {
+      "importer": "gltf-scene",
+      "uuid": "a26d6a6e-225e-40aa-90ad-1f16e68ab541@16dba",
+      "displayName": "",
+      "id": "16dba",
+      "name": "flower_redC.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "a26d6a6e-225e-40aa-90ad-1f16e68ab541@5a177"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "a26d6a6e-225e-40aa-90ad-1f16e68ab541@53398",
+        "a26d6a6e-225e-40aa-90ad-1f16e68ab541@03d24",
+        "a26d6a6e-225e-40aa-90ad-1f16e68ab541@70202"
+      ],
+      "scenes": [
+        "a26d6a6e-225e-40aa-90ad-1f16e68ab541@16dba"
+      ]
+    }
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "31d18904-8b09-422e-84a1-2671b9b61a43",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "31d18904-8b09-422e-84a1-2671b9b61a43@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f0f33": {
+      "importer": "gltf-mesh",
+      "uuid": "31d18904-8b09-422e-84a1-2671b9b61a43@f0f33",
+      "displayName": "",
+      "id": "f0f33",
+      "name": "hanging_moss.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 52
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d7cff": {
+      "importer": "gltf-scene",
+      "uuid": "31d18904-8b09-422e-84a1-2671b9b61a43@d7cff",
+      "displayName": "",
+      "id": "d7cff",
+      "name": "hanging_moss.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "31d18904-8b09-422e-84a1-2671b9b61a43@f0f33"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "31d18904-8b09-422e-84a1-2671b9b61a43@53398"
+      ],
+      "scenes": [
+        "31d18904-8b09-422e-84a1-2671b9b61a43@d7cff"
+      ]
+    }
+  }
+}

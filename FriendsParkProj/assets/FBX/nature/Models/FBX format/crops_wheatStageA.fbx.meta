@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "82ac3a42-6245-4a33-b024-65300aa1240d",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "82ac3a42-6245-4a33-b024-65300aa1240d@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "cd147": {
+      "importer": "gltf-mesh",
+      "uuid": "82ac3a42-6245-4a33-b024-65300aa1240d@cd147",
+      "displayName": "",
+      "id": "cd147",
+      "name": "crops_wheatStageA.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 720
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5d131": {
+      "importer": "gltf-scene",
+      "uuid": "82ac3a42-6245-4a33-b024-65300aa1240d@5d131",
+      "displayName": "",
+      "id": "5d131",
+      "name": "crops_wheatStageA.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "82ac3a42-6245-4a33-b024-65300aa1240d@cd147"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "82ac3a42-6245-4a33-b024-65300aa1240d@53398"
+      ],
+      "scenes": [
+        "82ac3a42-6245-4a33-b024-65300aa1240d@5d131"
+      ]
+    }
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "aa5dd1c7-3060-4161-a8a7-d890a2a5025c",
+  "files": [],
+  "subMetas": {
+    "33880": {
+      "importer": "gltf-mesh",
+      "uuid": "aa5dd1c7-3060-4161-a8a7-d890a2a5025c@33880",
+      "displayName": "",
+      "id": "33880",
+      "name": "Mesh cliff_diagonal_stone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 44
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "aa5dd1c7-3060-4161-a8a7-d890a2a5025c@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "d0616": {
+      "importer": "gltf-scene",
+      "uuid": "aa5dd1c7-3060-4161-a8a7-d890a2a5025c@d0616",
+      "displayName": "",
+      "id": "d0616",
+      "name": "cliff_diagonal_stone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "aa5dd1c7-3060-4161-a8a7-d890a2a5025c@33880"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "aa5dd1c7-3060-4161-a8a7-d890a2a5025c@4de10"
+      ],
+      "scenes": [
+        "aa5dd1c7-3060-4161-a8a7-d890a2a5025c@d0616"
+      ]
+    }
+  }
+}

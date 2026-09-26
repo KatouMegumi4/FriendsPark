@@ -1,0 +1,93 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "461c70fa-0784-4dbb-8f88-68e6c7511cd1",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "461c70fa-0784-4dbb-8f88-68e6c7511cd1@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2516b": {
+      "importer": "gltf-mesh",
+      "uuid": "461c70fa-0784-4dbb-8f88-68e6c7511cd1@2516b",
+      "displayName": "",
+      "id": "2516b",
+      "name": "Mesh crops_cornStageB.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 116
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "8f603": {
+      "importer": "gltf-scene",
+      "uuid": "461c70fa-0784-4dbb-8f88-68e6c7511cd1@8f603",
+      "displayName": "",
+      "id": "8f603",
+      "name": "crops_cornStageB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "461c70fa-0784-4dbb-8f88-68e6c7511cd1@2516b"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "461c70fa-0784-4dbb-8f88-68e6c7511cd1@53398"
+      ],
+      "scenes": [
+        "461c70fa-0784-4dbb-8f88-68e6c7511cd1@8f603"
+      ]
+    }
+  }
+}

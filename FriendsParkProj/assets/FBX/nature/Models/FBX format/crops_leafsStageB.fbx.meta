@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "02926807-da94-4179-8ffb-ae669d96e6cb",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "02926807-da94-4179-8ffb-ae669d96e6cb@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "2341d": {
+      "importer": "gltf-mesh",
+      "uuid": "02926807-da94-4179-8ffb-ae669d96e6cb@2341d",
+      "displayName": "",
+      "id": "2341d",
+      "name": "crops_leafsStageB.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 84
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "78fb2": {
+      "importer": "gltf-scene",
+      "uuid": "02926807-da94-4179-8ffb-ae669d96e6cb@78fb2",
+      "displayName": "",
+      "id": "78fb2",
+      "name": "crops_leafsStageB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "02926807-da94-4179-8ffb-ae669d96e6cb@2341d"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "02926807-da94-4179-8ffb-ae669d96e6cb@53398"
+      ],
+      "scenes": [
+        "02926807-da94-4179-8ffb-ae669d96e6cb@78fb2"
+      ]
+    }
+  }
+}

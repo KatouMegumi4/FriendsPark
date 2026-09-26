@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "34debe99-5e36-495e-b1f4-1843ec151b73",
+  "files": [],
+  "subMetas": {
+    "246ef": {
+      "importer": "gltf-mesh",
+      "uuid": "34debe99-5e36-495e-b1f4-1843ec151b73@246ef",
+      "displayName": "",
+      "id": "246ef",
+      "name": "cliff_large_stone.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 32
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "34debe99-5e36-495e-b1f4-1843ec151b73@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "f3117": {
+      "importer": "gltf-scene",
+      "uuid": "34debe99-5e36-495e-b1f4-1843ec151b73@f3117",
+      "displayName": "",
+      "id": "f3117",
+      "name": "cliff_large_stone.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "34debe99-5e36-495e-b1f4-1843ec151b73@246ef"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "34debe99-5e36-495e-b1f4-1843ec151b73@4de10"
+      ],
+      "scenes": [
+        "34debe99-5e36-495e-b1f4-1843ec151b73@f3117"
+      ]
+    }
+  }
+}

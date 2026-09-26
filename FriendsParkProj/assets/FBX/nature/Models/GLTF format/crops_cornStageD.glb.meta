@@ -1,0 +1,186 @@
+{
+  "ver": "2.3.14",
+  "importer": "gltf",
+  "imported": true,
+  "uuid": "745b790d-eaf3-432b-90ff-6a636a8085bc",
+  "files": [],
+  "subMetas": {
+    "53398": {
+      "importer": "gltf-material",
+      "uuid": "745b790d-eaf3-432b-90ff-6a636a8085bc@53398",
+      "displayName": "",
+      "id": "53398",
+      "name": "grass.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "79e27": {
+      "importer": "gltf-mesh",
+      "uuid": "745b790d-eaf3-432b-90ff-6a636a8085bc@79e27",
+      "displayName": "",
+      "id": "79e27",
+      "name": "Mesh crops_cornStageD-0.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 148
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "a040e": {
+      "importer": "gltf-mesh",
+      "uuid": "745b790d-eaf3-432b-90ff-6a636a8085bc@a040e",
+      "displayName": "",
+      "id": "a040e",
+      "name": "Mesh corn-1.mesh",
+      "userData": {
+        "gltfIndex": 1,
+        "triangleCount": 38
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "72c27": {
+      "importer": "gltf-mesh",
+      "uuid": "745b790d-eaf3-432b-90ff-6a636a8085bc@72c27",
+      "displayName": "",
+      "id": "72c27",
+      "name": "Mesh corn-2.mesh",
+      "userData": {
+        "gltfIndex": 2,
+        "triangleCount": 38
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5b42d": {
+      "importer": "gltf-mesh",
+      "uuid": "745b790d-eaf3-432b-90ff-6a636a8085bc@5b42d",
+      "displayName": "",
+      "id": "5b42d",
+      "name": "Mesh corn-3.mesh",
+      "userData": {
+        "gltfIndex": 3,
+        "triangleCount": 38
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "ad120": {
+      "importer": "gltf-mesh",
+      "uuid": "745b790d-eaf3-432b-90ff-6a636a8085bc@ad120",
+      "displayName": "",
+      "id": "ad120",
+      "name": "Mesh corn-4.mesh",
+      "userData": {
+        "gltfIndex": 4,
+        "triangleCount": 38
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "5f285": {
+      "importer": "gltf-material",
+      "uuid": "745b790d-eaf3-432b-90ff-6a636a8085bc@5f285",
+      "displayName": "",
+      "id": "5f285",
+      "name": "corn.material",
+      "userData": {
+        "gltfIndex": 1
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "1d8a6": {
+      "importer": "gltf-scene",
+      "uuid": "745b790d-eaf3-432b-90ff-6a636a8085bc@1d8a6",
+      "displayName": "",
+      "id": "1d8a6",
+      "name": "crops_cornStageD.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "745b790d-eaf3-432b-90ff-6a636a8085bc@79e27",
+        "745b790d-eaf3-432b-90ff-6a636a8085bc@a040e",
+        "745b790d-eaf3-432b-90ff-6a636a8085bc@72c27",
+        "745b790d-eaf3-432b-90ff-6a636a8085bc@5b42d",
+        "745b790d-eaf3-432b-90ff-6a636a8085bc@ad120"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "745b790d-eaf3-432b-90ff-6a636a8085bc@53398",
+        "745b790d-eaf3-432b-90ff-6a636a8085bc@5f285"
+      ],
+      "scenes": [
+        "745b790d-eaf3-432b-90ff-6a636a8085bc@1d8a6"
+      ]
+    }
+  }
+}

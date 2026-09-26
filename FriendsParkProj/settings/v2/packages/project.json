@@ -1,11 +1,33 @@
 {
   "general": {
-    "highQuality": true
+    "highQuality": true,
+    "designResolution": {
+      "width": 1920,
+      "height": 1080
+    }
   },
   "__version__": "1.0.6",
   "fbx": {
     "legacyFbxImporter": {
       "visible": true
+    }
+  },
+  "custom_joint_texture_layouts": [],
+  "physics": {
+    "collisionGroups": [
+      {
+        "index": 1,
+        "name": "GamePlayer"
+      },
+      {
+        "index": 2,
+        "name": "Ground"
+      }
+    ],
+    "collisionMatrix": {
+      "0": 3,
+      "1": 7,
+      "2": 2
     }
   }
 }

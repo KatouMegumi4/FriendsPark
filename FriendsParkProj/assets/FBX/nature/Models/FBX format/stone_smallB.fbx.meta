@@ -1,0 +1,96 @@
+{
+  "ver": "2.3.14",
+  "importer": "fbx",
+  "imported": true,
+  "uuid": "1ca28692-0229-4176-93a6-432d1c3b93f5",
+  "files": [],
+  "subMetas": {
+    "7bdf4": {
+      "importer": "gltf-mesh",
+      "uuid": "1ca28692-0229-4176-93a6-432d1c3b93f5@7bdf4",
+      "displayName": "",
+      "id": "7bdf4",
+      "name": "stone_smallB.mesh",
+      "userData": {
+        "gltfIndex": 0,
+        "triangleCount": 24
+      },
+      "ver": "1.1.1",
+      "imported": true,
+      "files": [
+        ".bin",
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "4de10": {
+      "importer": "gltf-material",
+      "uuid": "1ca28692-0229-4176-93a6-432d1c3b93f5@4de10",
+      "displayName": "",
+      "id": "4de10",
+      "name": "stone.material",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    },
+    "b0311": {
+      "importer": "gltf-scene",
+      "uuid": "1ca28692-0229-4176-93a6-432d1c3b93f5@b0311",
+      "displayName": "",
+      "id": "b0311",
+      "name": "stone_smallB.prefab",
+      "userData": {
+        "gltfIndex": 0
+      },
+      "ver": "1.0.14",
+      "imported": true,
+      "files": [
+        ".json"
+      ],
+      "subMetas": {}
+    }
+  },
+  "userData": {
+    "imageMetas": [],
+    "fbx": {
+      "smartMaterialEnabled": true
+    },
+    "lods": {
+      "enable": false,
+      "hasBuiltinLOD": false,
+      "options": [
+        {
+          "screenRatio": 0.25,
+          "faceCount": 1
+        },
+        {
+          "screenRatio": 0.125,
+          "faceCount": 0.25
+        },
+        {
+          "screenRatio": 0.01,
+          "faceCount": 0.1
+        }
+      ]
+    },
+    "assetFinder": {
+      "meshes": [
+        "1ca28692-0229-4176-93a6-432d1c3b93f5@7bdf4"
+      ],
+      "skeletons": [],
+      "textures": [],
+      "materials": [
+        "1ca28692-0229-4176-93a6-432d1c3b93f5@4de10"
+      ],
+      "scenes": [
+        "1ca28692-0229-4176-93a6-432d1c3b93f5@b0311"
+      ]
+    }
+  }
+}
