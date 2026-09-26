@@ -1,0 +1,26 @@
+# Cocos Creator
+library/
+local/
+temp/
+build/
+build-templates/
+profiles/
+.settings/
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Sensitive config
+.env
+.env.*
